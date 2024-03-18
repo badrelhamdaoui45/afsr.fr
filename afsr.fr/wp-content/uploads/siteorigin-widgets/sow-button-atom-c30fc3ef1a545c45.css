@@ -1,0 +1,44 @@
+@media (max-width: 780px) {
+  .so-widget-sow-button-atom-c30fc3ef1a54 .ow-button-base.ow-button-align-center {
+    text-align: center;
+  }
+  .so-widget-sow-button-atom-c30fc3ef1a54 .ow-button-base.ow-button-align-center.ow-button-align-justify a {
+    display: inline-block;
+  }
+}
+.so-widget-sow-button-atom-c30fc3ef1a54 .ow-button-base a {
+  -ms-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  
+  font-size: 1em;
+  padding: 1em 2em;
+  background: #8a1e82;
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #60155b), color-stop(1, #8a1e82));
+  background: -ms-linear-gradient(bottom, #60155b, #8a1e82);
+  background: -moz-linear-gradient(center bottom, #60155b 0%, #8a1e82 100%);
+  background: -o-linear-gradient(#8a1e82, #60155b);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#8a1e82', endColorstr='#60155b', GradientType=0);
+  border: 1px solid;
+  border-color: #54124f #4b1047 #3f0e3b #4b1047;
+  color: #ffffff !important;
+  -webkit-border-radius: 0.25px;
+  -moz-border-radius: 0.25px;
+  border-radius: 0.25px;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 2px rgba(0,0,0,0.065);
+  -moz-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 2px rgba(0,0,0,0.065);
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 2px rgba(0,0,0,0.065);
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+}
+.so-widget-sow-button-atom-c30fc3ef1a54 .ow-button-base a.ow-button-hover:active,
+.so-widget-sow-button-atom-c30fc3ef1a54 .ow-button-base a.ow-button-hover:hover {
+  background: #92208a;
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #681762), color-stop(1, #92208a));
+  background: -ms-linear-gradient(bottom, #681762, #92208a);
+  background: -moz-linear-gradient(center bottom, #681762 0%, #92208a 100%);
+  background: -o-linear-gradient(#92208a, #681762);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#92208a', endColorstr='#681762', GradientType=0);
+  border-color: #9b2292 #92208a #861d7e #92208a;
+  color: #ffffff !important;
+}

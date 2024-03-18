@@ -1,0 +1,65 @@
+@media (max-width: 780px) {
+  .so-widget-sow-button-atom-2a04803cd89c .ow-button-base.ow-button-align-center {
+    text-align: center;
+  }
+  .so-widget-sow-button-atom-2a04803cd89c .ow-button-base.ow-button-align-center.ow-button-align-justify a {
+    display: inline-block;
+  }
+}
+.so-widget-sow-button-atom-2a04803cd89c .ow-button-base a {
+  -ms-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 8cm;
+  max-width: 100%;
+  
+  font-size: 1;
+  padding: 1 2;
+  background: #67aa03;
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #497802), color-stop(1, #67aa03));
+  background: -ms-linear-gradient(bottom, #497802, #67aa03);
+  background: -moz-linear-gradient(center bottom, #497802 0%, #67aa03 100%);
+  background: -o-linear-gradient(#67aa03, #497802);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#67aa03', endColorstr='#497802', GradientType=0);
+  border: 1px solid;
+  border-color: #406902 #395f02 #305001 #395f02;
+  color: #ffffff !important;
+  -webkit-border-radius: 0.25;
+  -moz-border-radius: 0.25;
+  border-radius: 0.25;
+  -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 2px rgba(0,0,0,0.065);
+  -moz-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 2px rgba(0,0,0,0.065);
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.2), 0 1px 2px rgba(0,0,0,0.065);
+  text-shadow: 0 1px 0 rgba(0, 0, 0, 0.05);
+}
+.so-widget-sow-button-atom-2a04803cd89c .ow-button-base a > span {
+  display: flex;
+  justify-content: center;
+}
+.so-widget-sow-button-atom-2a04803cd89c .ow-button-base a > span [class^="sow-icon-"] {
+  font-size: 1.3em;
+}
+.so-widget-sow-button-atom-2a04803cd89c .ow-button-base a.ow-icon-placement-top > span {
+  flex-direction: column;
+}
+.so-widget-sow-button-atom-2a04803cd89c .ow-button-base a.ow-icon-placement-right > span {
+  flex-direction: row-reverse;
+}
+.so-widget-sow-button-atom-2a04803cd89c .ow-button-base a.ow-icon-placement-bottom > span {
+  flex-direction: column-reverse;
+}
+.so-widget-sow-button-atom-2a04803cd89c .ow-button-base a.ow-icon-placement-left > span {
+  align-items: start;
+}
+.so-widget-sow-button-atom-2a04803cd89c .ow-button-base a.ow-button-hover:active,
+.so-widget-sow-button-atom-2a04803cd89c .ow-button-base a.ow-button-hover:hover {
+  background: #6db403;
+  background: -webkit-gradient(linear, left bottom, left top, color-stop(0, #4f8202), color-stop(1, #6db403));
+  background: -ms-linear-gradient(bottom, #4f8202, #6db403);
+  background: -moz-linear-gradient(center bottom, #4f8202 0%, #6db403 100%);
+  background: -o-linear-gradient(#6db403, #4f8202);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#6db403', endColorstr='#4f8202', GradientType=0);
+  border-color: #73be03 #6db403 #64a503 #6db403;
+  color: #ffffff !important;
+}

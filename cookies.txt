@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+newsitev2.afsr.fr	TRUE	/	FALSE	1999999999	multi-device-switcher	deleted
+afsr.fr	TRUE	/	FALSE	1999999999	wp_woocommerce_session_d7d5501e3d543bc6b4c76ad7be656bd3	t_f4e86a7ca1562ee3e3d9001efdc6e1%7C%7C1710929970%7C%7C1710926370%7C%7C09ad7ceebc31ad6ed319cc7fe947588c
+afsr.fr	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+afsr.fr	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	542cacd529eba452f53a7fa0944463be
+afsr.fr	TRUE	/	FALSE	1999999999	multi-device-switcher	deleted
+

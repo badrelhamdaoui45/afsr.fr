@@ -1,0 +1,600 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 18 Mar 2024 10:14:21 at https://afsr.fr/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps0u0%h%B%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://afsr.fr/ -O1 "C:\My Web Sites\https___afsr.fr" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:14:25	Error: 	"Method Not Allowed" (405) at link https://afsr.fr/xmlrpc.php (from https://afsr.fr/)
+10:16:03	Error: 	"Bad Request" (400) at link https://sibautomation.com/sa.js?key= (from https://afsr.fr/)
+10:17:55	Warning: 	File not parsed, looks like binary: https://afsr.fr/wp-content/themes/vantage/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+10:18:06	Warning: 	Found for https://afsr.fr/orientations-2020-2025/?share=facebook
+10:18:06	Warning: 	File has moved from https://afsr.fr/orientations-2020-2025/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Forientations-2020-2025%2F&t=Orientations%202020-2025
+10:18:08	Warning: 	Found for https://afsr.fr/orientations-2020-2025/?share=twitter
+10:18:08	Warning: 	File has moved from https://afsr.fr/orientations-2020-2025/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Orientations%202020-2025&url=https%3A%2F%2Fafsr.fr%2Forientations-2020-2025%2F
+10:18:08	Warning: 	Found for https://afsr.fr/orientations-2020-2025/?share=jetpack-whatsapp
+10:18:08	Warning: 	File has moved from https://afsr.fr/orientations-2020-2025/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Orientations%202020-2025%20https%3A%2F%2Fafsr.fr%2Forientations-2020-2025%2F
+10:18:17	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://afsr.fr/wp-content/uploads/2022/11/Samuel-Boutillier-150x150.png (from https://afsr.fr/conseil-dadministration/)
+10:18:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://afsr.fr/conseil-dadministration/hemeline-huet/ (from https://afsr.fr/conseil-dadministration/)
+10:18:52	Warning: 	Incorrect length (15663!=3659723 expected) for https://afsr.fr/wp-content/uploads/2022/11/RA-AFSR-2021-v3-BD.pdf
+10:18:58	Warning: 	Incorrect length (5527!=5389292 expected) for https://afsr.fr/wp-content/uploads/2018/05/Rapport-Annuel-2016-BD.pdf
+10:18:58	Warning: 	Incorrect length (264719!=1708302 expected) for https://afsr.fr/wp-content/uploads/2020/06/Rapport-Financier-2019.pdf
+10:18:58	Warning: 	Incorrect length (51863!=3297362 expected) for https://afsr.fr/wp-content/uploads/2018/05/Rapport-annuel-2017-Protégé.pdf
+10:20:06	Warning: 	Incorrect length (2555455!=9173871 expected) for https://afsr.fr/wp-content/uploads/2018/05/RA-2013.pdf
+10:20:07	Warning: 	Incorrect length (1090079!=3754404 expected) for https://afsr.fr/wp-content/uploads/2018/05/Rapport-annuel-2015-protégé.pdf
+10:20:07	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2022/11/RA-AFSR-2021-v3-BD.pdf (from https://afsr.fr/lafsr-vous-rend-des-comptes/)
+10:20:07	Warning: 	Incorrect length (1205919!=5524903 expected) for https://afsr.fr/wp-content/uploads/2018/05/2014RapportAnnuel.pdf
+10:20:08	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://afsr.fr/wp-content/uploads/2021/11/RA-AFSR-2020-BD.pdf (from https://afsr.fr/lafsr-vous-rend-des-comptes/)
+10:20:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://afsr.fr/wp-content/uploads/2021/11/RF-AFSR-2020-BD.pdf (from https://afsr.fr/lafsr-vous-rend-des-comptes/)
+10:20:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://afsr.fr/wp-content/uploads/2020/06/Rapport-dactivité-2019.pdf (from https://afsr.fr/lafsr-vous-rend-des-comptes/)
+10:20:09	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2020/06/Rapport-Financier-2019.pdf (from https://afsr.fr/lafsr-vous-rend-des-comptes/)
+10:20:09	Error: 	"Not Found" (404) at link https://afsr.fr/wp-content/uploads/2020/06/Rapport-Annuel-2018.pdf (from https://afsr.fr/lafsr-vous-rend-des-comptes/)
+10:20:10	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2018/05/Rapport-annuel-2017-Protégé.pdf (from https://afsr.fr/lafsr-vous-rend-des-comptes/)
+10:20:11	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2018/05/Rapport-Annuel-2016-BD.pdf (from https://afsr.fr/lafsr-vous-rend-des-comptes/)
+10:20:11	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2018/05/Rapport-annuel-2015-protégé.pdf (from https://afsr.fr/lafsr-vous-rend-des-comptes/)
+10:20:11	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2018/05/2014RapportAnnuel.pdf (from https://afsr.fr/lafsr-vous-rend-des-comptes/)
+10:20:13	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2018/05/RA-2013.pdf (from https://afsr.fr/lafsr-vous-rend-des-comptes/)
+10:20:16	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/kinesitherapie/ (from https://afsr.fr/prise-en-charge-paramedicale-et-educative/)
+10:20:23	Warning: 	Retry after error -4 (No data (connection closed)) at link https://afsr.fr/orthophonie/ (from https://afsr.fr/prise-en-charge-paramedicale-et-educative/)
+10:21:20	Warning: 	Found for https://afsr.fr/prets-de-plaids-therapeutiques-maase/?share=facebook
+10:21:20	Warning: 	File has moved from https://afsr.fr/prets-de-plaids-therapeutiques-maase/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fprets-de-plaids-therapeutiques-maase%2F&t=Pr%C3%AAts%20de%20plaids%20th%C3%A9rapeutiques%20Maase
+10:21:22	Warning: 	Found for https://afsr.fr/prets-de-plaids-therapeutiques-maase/?share=twitter
+10:21:22	Warning: 	File has moved from https://afsr.fr/prets-de-plaids-therapeutiques-maase/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Pr%C3%AAts%20de%20plaids%20th%C3%A9rapeutiques%20Maase&url=https%3A%2F%2Fafsr.fr%2Fprets-de-plaids-therapeutiques-maase%2F
+10:21:24	Warning: 	Found for https://afsr.fr/prets-de-plaids-therapeutiques-maase/?share=jetpack-whatsapp
+10:21:24	Warning: 	File has moved from https://afsr.fr/prets-de-plaids-therapeutiques-maase/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Pr%C3%AAts%20de%20plaids%20th%C3%A9rapeutiques%20Maase%20https%3A%2F%2Fafsr.fr%2Fprets-de-plaids-therapeutiques-maase%2F
+10:21:29	Warning: 	Found for https://afsr.fr/echange-de-maisons-adaptees-un-partenariat-avec-homeexchange-dedie/?share=facebook
+10:21:29	Warning: 	File has moved from https://afsr.fr/echange-de-maisons-adaptees-un-partenariat-avec-homeexchange-dedie/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fechange-de-maisons-adaptees-un-partenariat-avec-homeexchange-dedie%2F&t=Echange%20de%20maisons%20adapt%C3%A9es%20%3A%20un%20partenariat%20avec%20HomeExchange%20d%C3%A9di%C3%A9
+10:21:31	Warning: 	Found for https://afsr.fr/echange-de-maisons-adaptees-un-partenariat-avec-homeexchange-dedie/?share=twitter
+10:21:31	Warning: 	File has moved from https://afsr.fr/echange-de-maisons-adaptees-un-partenariat-avec-homeexchange-dedie/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Echange%20de%20maisons%20adapt%C3%A9es%20%3A%20un%20partenariat%20avec%20HomeExchange%20d%C3%A9di%C3%A9&url=https%3A%2F%2Fafsr.fr%2Fechange-de-maisons-adaptees-un-partenariat-avec-homeexchange-dedie%2F
+10:21:34	Warning: 	Found for https://afsr.fr/echange-de-maisons-adaptees-un-partenariat-avec-homeexchange-dedie/?share=jetpack-whatsapp
+10:21:34	Warning: 	File has moved from https://afsr.fr/echange-de-maisons-adaptees-un-partenariat-avec-homeexchange-dedie/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Echange%20de%20maisons%20adapt%C3%A9es%20%3A%20un%20partenariat%20avec%20HomeExchange%20d%C3%A9di%C3%A9%20https%3A%2F%2Fafsr.fr%2Fechange-de-maisons-adaptees-un-partenariat-avec-homeexchange-dedie%2F
+10:24:13	Warning: 	Found for https://afsr.fr/recommandations-pour-la-communication/?share=facebook
+10:24:13	Warning: 	File has moved from https://afsr.fr/recommandations-pour-la-communication/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Frecommandations-pour-la-communication%2F&t=Recommandations%20pour%20la%20communication
+10:24:19	Warning: 	Found for https://afsr.fr/recommandations-pour-la-communication/?share=twitter
+10:24:19	Warning: 	File has moved from https://afsr.fr/recommandations-pour-la-communication/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Recommandations%20pour%20la%20communication&url=https%3A%2F%2Fafsr.fr%2Frecommandations-pour-la-communication%2F
+10:24:28	Warning: 	Found for https://afsr.fr/recommandations-pour-la-communication/?share=jetpack-whatsapp
+10:24:28	Warning: 	File has moved from https://afsr.fr/recommandations-pour-la-communication/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Recommandations%20pour%20la%20communication%20https%3A%2F%2Fafsr.fr%2Frecommandations-pour-la-communication%2F
+10:25:41	Warning: 	Found for https://afsr.fr/webinaires/?share=facebook
+10:25:41	Warning: 	File has moved from https://afsr.fr/webinaires/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fwebinaires%2F&t=Webinaires
+10:25:42	Warning: 	Found for https://afsr.fr/webinaires/?share=twitter
+10:25:42	Warning: 	File has moved from https://afsr.fr/webinaires/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Webinaires&url=https%3A%2F%2Fafsr.fr%2Fwebinaires%2F
+10:25:43	Warning: 	Found for https://afsr.fr/webinaires/?share=jetpack-whatsapp
+10:25:43	Warning: 	File has moved from https://afsr.fr/webinaires/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Webinaires%20https%3A%2F%2Fafsr.fr%2Fwebinaires%2F
+10:26:11	Warning: 	Incorrect length (161944!=831885 expected) for newsitev2.afsr.fr/wp-content/uploads/2018/08/SF2018.jpg
+10:27:27	Warning: 	Incorrect length (1452079!=2182860 expected) for https://afsr.fr/wp-content/uploads/2023/12/Depliant-Sejour-Familles-2024-BD.pdf
+10:27:27	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2023/12/Depliant-Sejour-Familles-2024-BD.pdf (from https://afsr.fr/sejour-familles/)
+10:27:27	Warning: 	Incorrect length (184702!=1802969 expected) for newsitev2.afsr.fr/wp-content/uploads/2018/08/JI-groupe.jpg
+10:27:27	Warning: 	Retry after error -4 (Interrupted transfer) at link newsitev2.afsr.fr/wp-content/uploads/2018/08/SF2018.jpg (from https://afsr.fr/sejour-familles/)
+10:27:29	Error: 	"Not Found" (404) at link newsitev2.afsr.fr/wp-content/uploads/2018/08/Logo-Groupama.jpg (from https://afsr.fr/sejour-familles/)
+10:27:33	Warning: 	Incorrect length (381516!=2167520 expected) for newsitev2.afsr.fr/wp-content/uploads/2018/08/P1100611-e1534849372910.jpg
+10:27:33	Error: 	"Not Found" (404) at link newsitev2.afsr.fr/wp-content/uploads/2018/08/Logo-Carrefour.jpg (from https://afsr.fr/sejour-familles/)
+10:27:33	Warning: 	Retry after error -4 (No data (connection closed)) at link newsitev2.afsr.fr/wp-content/uploads/2018/08/Logo-Conforama.gif (from https://afsr.fr/sejour-familles/)
+10:27:36	Error: 	"Not Found" (404) at link newsitev2.afsr.fr/wp-content/uploads/2018/08/images_images_AFSR_partenaires_Partenaires2015_logo-fondation-godf.jpg (from https://afsr.fr/sejour-familles/)
+10:27:48	Error: 	"Not Found" (404) at link https://afsr.fr/wp-content/uploads/2018/08/RG24.jpg (from https://afsr.fr/journees-nationales-du-syndrome-de-rett/)
+10:27:48	Warning: 	Retry after error -4 (Interrupted transfer) at link newsitev2.afsr.fr/wp-content/uploads/2018/08/P1100611-e1534849372910.jpg (from https://afsr.fr/journees-nationales-du-syndrome-de-rett/)
+10:27:48	Warning: 	Retry after error -4 (Interrupted transfer) at link newsitev2.afsr.fr/wp-content/uploads/2018/08/JI-groupe.jpg (from https://afsr.fr/journees-nationales-du-syndrome-de-rett/)
+10:27:49	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-json/wp/v2/pages/174 (from https://afsr.fr/cdh/)
+10:28:48	Warning: 	Incorrect length (485514!=832518 expected) for newsitev2.afsr.fr/wp-content/uploads/2018/08/CDH-Paris-2018.jpg
+10:28:48	Warning: 	Retry after error -4 (Interrupted transfer) at link newsitev2.afsr.fr/wp-content/uploads/2018/08/CDH-Paris-2018.jpg (from https://afsr.fr/cdh/)
+10:29:56	Warning: 	Incorrect length (8212!=467978 expected) for newsitev2.afsr.fr/wp-content/uploads/2018/08/JMG-Assis-top-10-e1534842683273.jpg
+10:29:57	Warning: 	Incorrect length (325542!=1888185 expected) for https://afsr.fr/wp-content/uploads/2021/10/Affiche-octobre-Rett.png
+10:30:01	Warning: 	Incorrect length (1840149!=6746907 expected) for https://afsr.fr/wp-content/uploads/2018/10/CDH-2016.jpg
+10:30:01	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2018/10/CDH-2016.jpg (from https://afsr.fr/cdh/)
+10:30:02	Error: 	"Not Found" (404) at link https://afsr.fr/wp-content/uploads/2018/05/image-28.png (from https://afsr.fr/cdh/)
+10:30:05	Warning: 	Incorrect length (1192!=45632 expected) for https://afsr.fr/wp-content/uploads/2018/10/RFM-300x259.png
+10:30:14	Warning: 	Found for https://afsr.fr/soutiens-solidaires/?share=facebook
+10:30:14	Warning: 	File has moved from https://afsr.fr/soutiens-solidaires/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fsoutiens-solidaires%2F&t=Soutiens%20solidaires
+10:30:15	Warning: 	Found for https://afsr.fr/soutiens-solidaires/?share=twitter
+10:30:15	Warning: 	File has moved from https://afsr.fr/soutiens-solidaires/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Soutiens%20solidaires&url=https%3A%2F%2Fafsr.fr%2Fsoutiens-solidaires%2F
+10:30:16	Warning: 	Found for https://afsr.fr/soutiens-solidaires/?share=jetpack-whatsapp
+10:30:16	Warning: 	File has moved from https://afsr.fr/soutiens-solidaires/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Soutiens%20solidaires%20https%3A%2F%2Fafsr.fr%2Fsoutiens-solidaires%2F
+10:30:24	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2021/10/Affiche-octobre-Rett.png (from https://afsr.fr/octobre-rett/)
+10:30:25	Warning: 	Found for https://afsr.fr/octobre-rett/?share=facebook
+10:30:25	Warning: 	File has moved from https://afsr.fr/octobre-rett/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Foctobre-rett%2F&t=OCTOBRE%20RETT
+10:30:27	Warning: 	Found for https://afsr.fr/octobre-rett/?share=twitter
+10:30:27	Warning: 	File has moved from https://afsr.fr/octobre-rett/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=OCTOBRE%20RETT&url=https%3A%2F%2Fafsr.fr%2Foctobre-rett%2F
+10:30:27	Warning: 	Found for https://afsr.fr/octobre-rett/?share=jetpack-whatsapp
+10:30:27	Warning: 	File has moved from https://afsr.fr/octobre-rett/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=OCTOBRE%20RETT%20https%3A%2F%2Fafsr.fr%2Foctobre-rett%2F
+10:30:38	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://afsr.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fafsr.fr%2Fnos-ambassadeurs%2F&format=xml (from https://afsr.fr/nos-ambassadeurs/)
+10:30:38	Warning: 	Retry after error -4 (Interrupted transfer) at link newsitev2.afsr.fr/wp-content/uploads/2018/08/JMG-Assis-top-10-e1534842683273.jpg (from https://afsr.fr/nos-ambassadeurs/)
+10:30:40	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2018/10/RFM-300x259.png (from https://afsr.fr/nos-partenaires/)
+10:30:40	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://afsr.fr/wp-content/uploads/2019/09/image-2.png (from https://afsr.fr/nos-partenaires/)
+10:31:08	Warning: 	Found for https://afsr.fr/nous-rejoindre/?share=facebook
+10:31:08	Warning: 	File has moved from https://afsr.fr/nous-rejoindre/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fnous-rejoindre%2F&t=Nous%20rejoindre%20%21
+10:31:13	Warning: 	Found for https://afsr.fr/nous-rejoindre/?share=twitter
+10:31:13	Warning: 	File has moved from https://afsr.fr/nous-rejoindre/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Nous%20rejoindre%20%21&url=https%3A%2F%2Fafsr.fr%2Fnous-rejoindre%2F
+10:31:15	Warning: 	Found for https://afsr.fr/nous-rejoindre/?share=jetpack-whatsapp
+10:31:15	Warning: 	File has moved from https://afsr.fr/nous-rejoindre/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Nous%20rejoindre%20%21%20https%3A%2F%2Fafsr.fr%2Fnous-rejoindre%2F
+10:31:16	Warning: 	File not parsed, looks like binary: https://afsr.fr/wp-content/plugins/so-widgets-bundle/icons/fontawesome/webfonts/fa-brands-400.woff2
+10:31:18	Warning: 	File not parsed, looks like binary: https://afsr.fr/wp-content/plugins/so-widgets-bundle/icons/fontawesome/webfonts/fa-regular-400.woff2
+10:31:23	Warning: 	File not parsed, looks like binary: https://afsr.fr/wp-content/plugins/so-widgets-bundle/icons/fontawesome/webfonts/fa-solid-900.woff2
+10:36:15	Warning: 	Found for https://afsr.fr/seminaire-des-delegations-regionales/?share=facebook
+10:36:15	Warning: 	File has moved from https://afsr.fr/seminaire-des-delegations-regionales/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fseminaire-des-delegations-regionales%2F&t=S%C3%A9minaire%20des%20D%C3%A9l%C3%A9gations%20R%C3%A9gionales%202019
+10:36:19	Warning: 	Found for https://afsr.fr/seminaire-des-delegations-regionales/?share=twitter
+10:36:19	Warning: 	File has moved from https://afsr.fr/seminaire-des-delegations-regionales/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=S%C3%A9minaire%20des%20D%C3%A9l%C3%A9gations%20R%C3%A9gionales%202019&url=https%3A%2F%2Fafsr.fr%2Fseminaire-des-delegations-regionales%2F
+10:36:49	Warning: 	Found for https://afsr.fr/seminaire-des-delegations-regionales/?share=jetpack-whatsapp
+10:36:49	Warning: 	File has moved from https://afsr.fr/seminaire-des-delegations-regionales/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=S%C3%A9minaire%20des%20D%C3%A9l%C3%A9gations%20R%C3%A9gionales%202019%20https%3A%2F%2Fafsr.fr%2Fseminaire-des-delegations-regionales%2F
+10:37:49	Warning: 	Found for https://afsr.fr/question-cms-cpme/?share=facebook
+10:37:49	Warning: 	File has moved from https://afsr.fr/question-cms-cpme/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fquestion-cms-cpme%2F&t=Question%20CMS%2FCPME
+10:39:18	Warning: 	Incorrect length (1423118!=13553882 expected) for https://afsr.fr/wp-content/uploads/2019/10/RI79@.pdf
+10:39:18	Warning: 	Incorrect length (2354182!=15702613 expected) for https://afsr.fr/wp-content/uploads/2019/10/RI80@.pdf
+10:39:18	Warning: 	Found for https://afsr.fr/question-cms-cpme/?share=twitter
+10:39:18	Warning: 	File has moved from https://afsr.fr/question-cms-cpme/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Question%20CMS%2FCPME&url=https%3A%2F%2Fafsr.fr%2Fquestion-cms-cpme%2F
+10:39:26	Warning: 	Found for https://afsr.fr/question-cms-cpme/?share=jetpack-whatsapp
+10:39:26	Warning: 	File has moved from https://afsr.fr/question-cms-cpme/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Question%20CMS%2FCPME%20https%3A%2F%2Fafsr.fr%2Fquestion-cms-cpme%2F
+10:40:36	Warning: 	Incorrect length (1227638!=14743506 expected) for https://afsr.fr/wp-content/uploads/2019/10/RI78@.pdf
+10:40:36	Warning: 	Incorrect length (105438!=21651884 expected) for https://afsr.fr/wp-content/uploads/2019/10/RI74@bichro.pdf
+10:40:50	Warning: 	Retry after error -4 (Interrupted transfer) at link https://www.google.com/recaptcha/api.js?hl=fr&onload=nfRenderRecaptcha&render=explicit&ver=3.8.0 (from https://afsr.fr/question-cms-cpme/)
+10:41:50	Warning: 	Incorrect length (1834351!=8467964 expected) for https://afsr.fr/wp-content/uploads/2019/10/RI75@.pdf
+10:41:50	Warning: 	Incorrect length (3060807!=8309234 expected) for https://afsr.fr/wp-content/uploads/2019/10/RI71@bichro.pdf
+10:41:54	Warning: 	Found for https://afsr.fr/le-livre-de-lafsr/?share=facebook
+10:41:54	Warning: 	File has moved from https://afsr.fr/le-livre-de-lafsr/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fle-livre-de-lafsr%2F&t=Le%20livre%20de%20l%27AFSR
+10:41:59	Warning: 	Found for https://afsr.fr/le-livre-de-lafsr/?share=twitter
+10:41:59	Warning: 	File has moved from https://afsr.fr/le-livre-de-lafsr/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Le%20livre%20de%20l%27AFSR&url=https%3A%2F%2Fafsr.fr%2Fle-livre-de-lafsr%2F
+10:42:02	Warning: 	Incorrect length (189423!=8634019 expected) for https://afsr.fr/wp-content/uploads/2019/10/RI70@bichro.pdf
+10:42:02	Warning: 	Found for https://afsr.fr/le-livre-de-lafsr/?share=jetpack-whatsapp
+10:42:02	Warning: 	File has moved from https://afsr.fr/le-livre-de-lafsr/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Le%20livre%20de%20l%27AFSR%20https%3A%2F%2Fafsr.fr%2Fle-livre-de-lafsr%2F
+10:43:00	Warning: 	Found for https://afsr.fr/le-dvd/?share=facebook
+10:43:00	Warning: 	File has moved from https://afsr.fr/le-dvd/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fle-dvd%2F&t=Le%20DVD%20%22Des%20jeunes%20filles%20Originelles%22
+10:43:50	Warning: 	Found for https://afsr.fr/le-dvd/?share=twitter
+10:43:50	Warning: 	File has moved from https://afsr.fr/le-dvd/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Le%20DVD%20%22Des%20jeunes%20filles%20Originelles%22&url=https%3A%2F%2Fafsr.fr%2Fle-dvd%2F
+10:43:54	Warning: 	Found for https://afsr.fr/le-dvd/?share=jetpack-whatsapp
+10:43:54	Warning: 	File has moved from https://afsr.fr/le-dvd/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Le%20DVD%20%22Des%20jeunes%20filles%20Originelles%22%20https%3A%2F%2Fafsr.fr%2Fle-dvd%2F
+10:44:21	Warning: 	Retry after error -2 (Receive Time Out) at link https://afsr.fr/wp-content/uploads/2019/10/RI83-BD.pdf (from https://afsr.fr/rett-info/)
+10:44:25	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://afsr.fr/wp-content/uploads/2019/10/RI82@.pdf (from https://afsr.fr/rett-info/)
+10:45:01	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2019/10/RI80@.pdf (from https://afsr.fr/rett-info/)
+10:45:03	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2019/10/RI79@.pdf (from https://afsr.fr/rett-info/)
+10:45:25	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2019/10/RI78@.pdf (from https://afsr.fr/rett-info/)
+10:45:27	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2019/10/RI75@.pdf (from https://afsr.fr/rett-info/)
+10:45:30	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2019/10/RI74@bichro.pdf (from https://afsr.fr/rett-info/)
+10:45:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://afsr.fr/wp-content/uploads/2019/10/RI72@bichro.pdf (from https://afsr.fr/rett-info/)
+10:45:36	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2019/10/RI71@bichro.pdf (from https://afsr.fr/rett-info/)
+10:45:38	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2019/10/RI70@bichro.pdf (from https://afsr.fr/rett-info/)
+10:45:40	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://afsr.fr/wp-content/uploads/2019/10/RI59@bichro.pdf (from https://afsr.fr/rett-info/)
+10:45:43	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://afsr.fr/wp-content/uploads/2019/10/Couv-RI-59-212x300.jpg (from https://afsr.fr/rett-info/)
+10:46:18	Warning: 	Incorrect length (1064015!=3548714 expected) for https://afsr.fr/wp-content/uploads/2019/10/RI51@bichro.pdf
+10:46:18	Warning: 	Incorrect length (258927!=2825158 expected) for https://afsr.fr/wp-content/uploads/2018/08/RG28-BD.pdf
+10:46:19	Warning: 	Incorrect length (341463!=2285489 expected) for https://afsr.fr/wp-content/uploads/2018/08/RG29-BD.pdf
+10:46:24	Warning: 	Incorrect length (82647!=1764050 expected) for https://afsr.fr/wp-content/uploads/2018/10/RG26-BD.pdf
+10:47:28	Warning: 	Incorrect length (1434703!=2222735 expected) for https://afsr.fr/wp-content/uploads/2018/08/RG-23.pdf
+10:48:33	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2019/10/RI51@bichro.pdf (from https://afsr.fr/rett-info/)
+10:48:51	Warning: 	Incorrect length (688983!=3514762 expected) for https://afsr.fr/wp-content/uploads/2018/08/RG22.pdf
+10:48:51	Warning: 	Found for https://afsr.fr/rett-info/?share=facebook
+10:48:51	Warning: 	File has moved from https://afsr.fr/rett-info/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Frett-info%2F&t=Les%20Rett%20Info
+10:49:58	Warning: 	Found for https://afsr.fr/rett-info/?share=twitter
+10:49:58	Warning: 	File has moved from https://afsr.fr/rett-info/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Les%20Rett%20Info&url=https%3A%2F%2Fafsr.fr%2Frett-info%2F
+10:50:15	Warning: 	Incorrect length (33039!=1524113 expected) for https://afsr.fr/wp-content/uploads/2018/08/RG17.pdf
+10:50:15	Warning: 	Found for https://afsr.fr/rett-info/?share=jetpack-whatsapp
+10:50:15	Warning: 	File has moved from https://afsr.fr/rett-info/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Les%20Rett%20Info%20https%3A%2F%2Fafsr.fr%2Frett-info%2F
+10:50:23	Warning: 	Incorrect length (5527!=1508690 expected) for https://afsr.fr/wp-content/uploads/2018/08/RG16.pdf
+10:53:12	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2018/08/RG29-BD.pdf (from https://afsr.fr/les-rett-gazettes/)
+10:53:25	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2018/08/RG28-BD.pdf (from https://afsr.fr/les-rett-gazettes/)
+10:53:41	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2018/10/RG26-BD.pdf (from https://afsr.fr/les-rett-gazettes/)
+10:53:53	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2018/08/RG-23.pdf (from https://afsr.fr/les-rett-gazettes/)
+10:53:55	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2018/08/RG22.pdf (from https://afsr.fr/les-rett-gazettes/)
+10:54:11	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2018/08/RG17.pdf (from https://afsr.fr/les-rett-gazettes/)
+10:54:31	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2018/08/RG16.pdf (from https://afsr.fr/les-rett-gazettes/)
+10:56:20	Warning: 	Incorrect length (1611359!=2404427 expected) for https://afsr.fr/wp-content/uploads/2018/08/RG9.pdf
+10:56:22	Warning: 	Incorrect length (519567!=1423979 expected) for https://afsr.fr/wp-content/uploads/2018/08/RG07.pdf
+10:56:23	Warning: 	Incorrect length (1973359!=7337085 expected) for https://afsr.fr/wp-content/uploads/2018/08/RG10.pdf
+10:56:23	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2018/08/RG10.pdf (from https://afsr.fr/les-rett-gazettes/)
+10:56:27	Warning: 	Incorrect length (18559!=3286964 expected) for https://afsr.fr/wp-content/uploads/2018/08/RG05.pdf
+10:56:27	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2018/08/RG9.pdf (from https://afsr.fr/les-rett-gazettes/)
+10:56:34	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2018/08/RG07.pdf (from https://afsr.fr/les-rett-gazettes/)
+10:57:33	Warning: 	Incorrect length (423999!=6307956 expected) for https://afsr.fr/wp-content/uploads/2018/08/RG02.pdf
+10:57:33	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2018/08/RG05.pdf (from https://afsr.fr/les-rett-gazettes/)
+10:57:35	Warning: 	Incorrect length (707807!=8352578 expected) for https://afsr.fr/wp-content/uploads/2018/08/RG03.pdf
+10:57:37	Warning: 	Incorrect length (696222!=10160512 expected) for https://afsr.fr/wp-content/uploads/2018/08/RG04.pdf
+10:57:37	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2018/08/RG04.pdf (from https://afsr.fr/les-rett-gazettes/)
+10:57:39	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2018/08/RG03.pdf (from https://afsr.fr/les-rett-gazettes/)
+10:57:41	Warning: 	Incorrect length (46527!=9424621 expected) for https://afsr.fr/wp-content/uploads/2018/08/RG01.pdf
+10:57:41	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2018/08/RG02.pdf (from https://afsr.fr/les-rett-gazettes/)
+10:57:42	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2018/08/RG01.pdf (from https://afsr.fr/les-rett-gazettes/)
+10:57:46	Warning: 	Found for https://afsr.fr/les-rett-gazettes/?share=facebook
+10:57:46	Warning: 	File has moved from https://afsr.fr/les-rett-gazettes/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fles-rett-gazettes%2F&t=Les%20Rett%20gazettes
+10:57:48	Warning: 	Found for https://afsr.fr/les-rett-gazettes/?share=twitter
+10:57:48	Warning: 	File has moved from https://afsr.fr/les-rett-gazettes/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Les%20Rett%20gazettes&url=https%3A%2F%2Fafsr.fr%2Fles-rett-gazettes%2F
+10:57:51	Warning: 	Found for https://afsr.fr/les-rett-gazettes/?share=jetpack-whatsapp
+10:57:51	Warning: 	File has moved from https://afsr.fr/les-rett-gazettes/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Les%20Rett%20gazettes%20https%3A%2F%2Fafsr.fr%2Fles-rett-gazettes%2F
+10:57:58	Warning: 	Found for https://afsr.fr/videos/?share=facebook
+10:57:58	Warning: 	File has moved from https://afsr.fr/videos/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fvideos%2F&t=Vid%C3%A9os
+10:58:03	Warning: 	Found for https://afsr.fr/videos/?share=twitter
+10:58:03	Warning: 	File has moved from https://afsr.fr/videos/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Vid%C3%A9os&url=https%3A%2F%2Fafsr.fr%2Fvideos%2F
+10:58:07	Warning: 	Found for https://afsr.fr/videos/?share=jetpack-whatsapp
+10:58:07	Warning: 	File has moved from https://afsr.fr/videos/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Vid%C3%A9os%20https%3A%2F%2Fafsr.fr%2Fvideos%2F
+10:58:53	Warning: 	Incorrect length (50416!=332806 expected) for https://afsr.fr/wp-content/uploads/2022/04/actu_fr-1-1.pdf
+11:00:05	Warning: 	Incorrect length (208247!=3879761 expected) for https://afsr.fr/wp-content/uploads/2021/08/2021-06-02-Sarthe.-Inna-9-ans-souffre-du-syndrome-de-Rett-_-elle-progresse-grace-a-son-regard-Ouest-France.pdf
+11:00:06	Warning: 	Incorrect length (1446287!=3689690 expected) for https://afsr.fr/wp-content/uploads/2022/05/article.pdf
+11:00:06	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2022/05/article.pdf (from https://afsr.fr/revue-de-presse/)
+11:00:07	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2022/04/actu_fr-1-1.pdf (from https://afsr.fr/revue-de-presse/)
+11:00:09	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2021/08/2021-06-02-Sarthe.-Inna-9-ans-souffre-du-syndrome-de-Rett-_-elle-progresse-grace-a-son-regard-Ouest-France.pdf (from https://afsr.fr/revue-de-presse/)
+11:00:13	Warning: 	Incorrect length (62000!=842342 expected) for https://afsr.fr/wp-content/uploads/2021/08/2021-02.pdf
+11:00:52	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2021/08/2021-02.pdf (from https://afsr.fr/revue-de-presse/)
+11:00:54	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://afsr.fr/wp-content/uploads/2021/08/2021-01.pdf (from https://afsr.fr/revue-de-presse/)
+11:03:55	Warning: 	Retry after error -2 (Receive Time Out) at link https://afsr.fr/wp-content/uploads/2018/08/2019-03-15-La-petite-Jeanne-Talbot-un-combat-constant-contre-la-maladie-La-Voix-du-Sud.pdf (from https://afsr.fr/revue-de-presse/)
+11:08:13	Warning: 	Retry after error -2 (Receive Time Out) at link https://afsr.fr/wp-content/uploads/2018/08/2018-01-26-Un-pour-tous-et....png (from https://afsr.fr/revue-de-presse/)
+11:08:17	Warning: 	Retry after error -2 (Receive Time Out) at link newsitev2.afsr.fr/wp-content/uploads/2018/08/21-12-17.jpg (from https://afsr.fr/revue-de-presse/)
+11:08:25	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://afsr.fr/wp-content/uploads/2018/08/2017-12-05-BH.be-Le-succès-des-calendriers-de-nu.pdf (from https://afsr.fr/revue-de-presse/)
+11:09:06	Warning: 	Incorrect length (144623!=578462 expected) for newsitev2.afsr.fr/wp-content/uploads/2018/08/2017-11-20-Le-Parisien-A-nu-face-au-handicap.png
+11:09:13	Warning: 	Incorrect length (38831!=1626882 expected) for https://afsr.fr/wp-content/uploads/2018/08/2017-10-03-Syndrome-de-RettC2A0_-deC2A0nouvelles-pistes-pourC2A0retrouver-leC2A0souffle-Theconversation.pdf
+11:09:54	Warning: 	Retry after error -4 (Interrupted transfer) at link newsitev2.afsr.fr/wp-content/uploads/2018/08/2017-11-20-Le-Parisien-A-nu-face-au-handicap.png (from https://afsr.fr/revue-de-presse/)
+11:10:01	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2018/08/2017-10-03-Syndrome-de-RettC2A0_-deC2A0nouvelles-pistes-pourC2A0retrouver-leC2A0souffle-Theconversation.pdf (from https://afsr.fr/revue-de-presse/)
+11:11:16	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://afsr.fr/wp-content/uploads/2018/08/2017-06-29-Republiquedespyrenees-Aren-une-grande-journée-de-solidarité-autour-de-Camille.pdf (from https://afsr.fr/revue-de-presse/)
+11:15:14	Warning: 	Found for https://afsr.fr/revue-de-presse/?share=facebook
+11:15:14	Warning: 	File has moved from https://afsr.fr/revue-de-presse/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Frevue-de-presse%2F&t=Revue%20de%20presse
+11:16:12	Warning: 	Found for https://afsr.fr/revue-de-presse/?share=twitter
+11:16:12	Warning: 	File has moved from https://afsr.fr/revue-de-presse/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Revue%20de%20presse&url=https%3A%2F%2Fafsr.fr%2Frevue-de-presse%2F
+11:16:19	Warning: 	Incorrect length (116702!=5389292 expected) for https://afsr.fr/wp-content/uploads/2018/05/Rapport-Annuel-2016-BD.pdf
+11:16:20	Warning: 	Incorrect length (624949!=3297362 expected) for https://afsr.fr/wp-content/uploads/2018/05/Rapport-annuel-2017-Protégé.pdf
+11:16:20	Warning: 	Found for https://afsr.fr/revue-de-presse/?share=jetpack-whatsapp
+11:16:20	Warning: 	File has moved from https://afsr.fr/revue-de-presse/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Revue%20de%20presse%20https%3A%2F%2Fafsr.fr%2Frevue-de-presse%2F
+11:16:24	Warning: 	Incorrect length (1272203!=3754404 expected) for https://afsr.fr/wp-content/uploads/2018/05/Rapport-annuel-2015-protégé.pdf
+11:16:26	Warning: 	Incorrect length (2598571!=9173871 expected) for https://afsr.fr/wp-content/uploads/2018/05/RA-2013.pdf
+11:16:26	Warning: 	Found for https://afsr.fr/fiches-rett-ressource/?share=facebook
+11:16:26	Warning: 	File has moved from https://afsr.fr/fiches-rett-ressource/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Ffiches-rett-ressource%2F&t=Fiches%20Rett%20Ressource
+11:16:32	Warning: 	Found for https://afsr.fr/fiches-rett-ressource/?share=twitter
+11:16:32	Warning: 	File has moved from https://afsr.fr/fiches-rett-ressource/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Fiches%20Rett%20Ressource&url=https%3A%2F%2Fafsr.fr%2Ffiches-rett-ressource%2F
+11:16:35	Warning: 	Found for https://afsr.fr/fiches-rett-ressource/?share=jetpack-whatsapp
+11:16:35	Warning: 	File has moved from https://afsr.fr/fiches-rett-ressource/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Fiches%20Rett%20Ressource%20https%3A%2F%2Fafsr.fr%2Ffiches-rett-ressource%2F
+11:16:38	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2018/05/Rapport-annuel-2017-Protégé.pdf (from https://afsr.fr/lafsr-vous-rend-des-comptes/)
+11:16:38	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2018/05/Rapport-Annuel-2016-BD.pdf (from https://afsr.fr/lafsr-vous-rend-des-comptes/)
+11:16:38	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2018/05/Rapport-annuel-2015-protégé.pdf (from https://afsr.fr/lafsr-vous-rend-des-comptes/)
+11:17:32	Warning: 	Incorrect length (514970!=2167520 expected) for newsitev2.afsr.fr/wp-content/uploads/2018/08/P1100611-e1534849372910.jpg
+11:17:32	Warning: 	Incorrect length (1732668!=2182860 expected) for https://afsr.fr/wp-content/uploads/2023/12/Depliant-Sejour-Familles-2024-BD.pdf
+11:17:33	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://afsr.fr/wp-json/wp/v2/pages/174
+11:17:34	Warning: 	Incorrect length (524136!=831885 expected) for newsitev2.afsr.fr/wp-content/uploads/2018/08/SF2018.jpg
+11:17:35	Warning: 	Incorrect length (4110283!=5524903 expected) for https://afsr.fr/wp-content/uploads/2018/05/2014RapportAnnuel.pdf
+11:17:35	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2018/05/2014RapportAnnuel.pdf (from https://afsr.fr/lafsr-vous-rend-des-comptes/)
+11:17:37	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2018/05/RA-2013.pdf (from https://afsr.fr/lafsr-vous-rend-des-comptes/)
+11:17:38	Warning: 	Found for https://afsr.fr/psychomotricite/?share=facebook
+11:17:38	Warning: 	File has moved from https://afsr.fr/psychomotricite/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fpsychomotricite%2F&t=Psychomotricit%C3%A9
+11:17:41	Warning: 	Found for https://afsr.fr/psychomotricite/?share=twitter
+11:17:41	Warning: 	File has moved from https://afsr.fr/psychomotricite/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Psychomotricit%C3%A9&url=https%3A%2F%2Fafsr.fr%2Fpsychomotricite%2F
+11:17:42	Warning: 	Found for https://afsr.fr/psychomotricite/?share=jetpack-whatsapp
+11:17:42	Warning: 	File has moved from https://afsr.fr/psychomotricite/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Psychomotricit%C3%A9%20https%3A%2F%2Fafsr.fr%2Fpsychomotricite%2F
+11:17:44	Warning: 	Incorrect length (346670!=1802969 expected) for newsitev2.afsr.fr/wp-content/uploads/2018/08/JI-groupe.jpg
+11:17:44	Warning: 	Found for https://afsr.fr/ergotherapie/?share=facebook
+11:17:44	Warning: 	File has moved from https://afsr.fr/ergotherapie/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fergotherapie%2F&t=Ergoth%C3%A9rapie
+11:17:45	Warning: 	Found for https://afsr.fr/ergotherapie/?share=twitter
+11:17:45	Warning: 	File has moved from https://afsr.fr/ergotherapie/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Ergoth%C3%A9rapie&url=https%3A%2F%2Fafsr.fr%2Fergotherapie%2F
+11:18:22	Warning: 	Found for https://afsr.fr/ergotherapie/?share=jetpack-whatsapp
+11:18:22	Warning: 	File has moved from https://afsr.fr/ergotherapie/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Ergoth%C3%A9rapie%20https%3A%2F%2Fafsr.fr%2Fergotherapie%2F
+11:18:31	Warning: 	Found for https://afsr.fr/je-temoigne/?share=facebook
+11:18:31	Warning: 	File has moved from https://afsr.fr/je-temoigne/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fje-temoigne%2F&t=Je%20t%C3%A9moigne
+11:18:37	Warning: 	Found for https://afsr.fr/je-temoigne/?share=twitter
+11:18:37	Warning: 	File has moved from https://afsr.fr/je-temoigne/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Je%20t%C3%A9moigne&url=https%3A%2F%2Fafsr.fr%2Fje-temoigne%2F
+11:19:11	Warning: 	Found for https://afsr.fr/je-temoigne/?share=jetpack-whatsapp
+11:19:11	Warning: 	File has moved from https://afsr.fr/je-temoigne/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Je%20t%C3%A9moigne%20https%3A%2F%2Fafsr.fr%2Fje-temoigne%2F
+11:19:28	Warning: 	Found for https://afsr.fr/ameliorer-le-conseil-aux-parents-et-la-diffusion-dinformation-sur-le-rett/?share=facebook
+11:19:28	Warning: 	File has moved from https://afsr.fr/ameliorer-le-conseil-aux-parents-et-la-diffusion-dinformation-sur-le-rett/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fameliorer-le-conseil-aux-parents-et-la-diffusion-dinformation-sur-le-rett%2F&t=Am%C3%A9liorer%20le%20conseil%20aux%20parents%20et%20la%20diffusion%20d%E2%80%99information%20sur%20le%20Rett
+11:19:30	Warning: 	Found for https://afsr.fr/ameliorer-le-conseil-aux-parents-et-la-diffusion-dinformation-sur-le-rett/?share=twitter
+11:19:30	Warning: 	File has moved from https://afsr.fr/ameliorer-le-conseil-aux-parents-et-la-diffusion-dinformation-sur-le-rett/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Am%C3%A9liorer%20le%20conseil%20aux%20parents%20et%20la%20diffusion%20d%E2%80%99information%20sur%20le%20Rett&url=https%3A%2F%2Fafsr.fr%2Fameliorer-le-conseil-aux-parents-et-la-diffusion-dinformation-sur-le-rett%2F
+11:19:34	Warning: 	Found for https://afsr.fr/ameliorer-le-conseil-aux-parents-et-la-diffusion-dinformation-sur-le-rett/?share=jetpack-whatsapp
+11:19:34	Warning: 	File has moved from https://afsr.fr/ameliorer-le-conseil-aux-parents-et-la-diffusion-dinformation-sur-le-rett/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Am%C3%A9liorer%20le%20conseil%20aux%20parents%20et%20la%20diffusion%20d%E2%80%99information%20sur%20le%20Rett%20https%3A%2F%2Fafsr.fr%2Fameliorer-le-conseil-aux-parents-et-la-diffusion-dinformation-sur-le-rett%2F
+11:19:38	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2023/12/Depliant-Sejour-Familles-2024-BD.pdf (from https://afsr.fr/sejour-familles/)
+11:19:38	Warning: 	Retry after error -4 (Interrupted transfer) at link newsitev2.afsr.fr/wp-content/uploads/2018/08/SF2018.jpg (from https://afsr.fr/sejour-familles/)
+11:19:40	Error: 	"Not Found" (404) at link newsitev2.afsr.fr/wp-content/uploads/2018/08/Logo-Conforama.gif (from https://afsr.fr/sejour-familles/)
+11:19:47	Warning: 	Found for https://afsr.fr/apporter-des-solutions-et-de-laide-aux-familles/?share=facebook
+11:19:47	Warning: 	File has moved from https://afsr.fr/apporter-des-solutions-et-de-laide-aux-familles/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fapporter-des-solutions-et-de-laide-aux-familles%2F&t=Apporter%20des%20solutions%20et%20de%20l%E2%80%99aide%20aux%20familles
+11:19:51	Warning: 	Found for https://afsr.fr/apporter-des-solutions-et-de-laide-aux-familles/?share=twitter
+11:19:51	Warning: 	File has moved from https://afsr.fr/apporter-des-solutions-et-de-laide-aux-familles/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Apporter%20des%20solutions%20et%20de%20l%E2%80%99aide%20aux%20familles&url=https%3A%2F%2Fafsr.fr%2Fapporter-des-solutions-et-de-laide-aux-familles%2F
+11:19:57	Warning: 	Found for https://afsr.fr/apporter-des-solutions-et-de-laide-aux-familles/?share=jetpack-whatsapp
+11:19:57	Warning: 	File has moved from https://afsr.fr/apporter-des-solutions-et-de-laide-aux-familles/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Apporter%20des%20solutions%20et%20de%20l%E2%80%99aide%20aux%20familles%20https%3A%2F%2Fafsr.fr%2Fapporter-des-solutions-et-de-laide-aux-familles%2F
+11:20:01	Warning: 	Retry after error -4 (Interrupted transfer) at link newsitev2.afsr.fr/wp-content/uploads/2018/08/P1100611-e1534849372910.jpg (from https://afsr.fr/journees-nationales-du-syndrome-de-rett/)
+11:20:05	Warning: 	Retry after error -4 (Interrupted transfer) at link newsitev2.afsr.fr/wp-content/uploads/2018/08/JI-groupe.jpg (from https://afsr.fr/journees-nationales-du-syndrome-de-rett/)
+11:20:07	Warning: 	Found for https://afsr.fr/consolider-et-garantir-le-fonctionnement-de-lassociation/?share=facebook
+11:20:07	Warning: 	File has moved from https://afsr.fr/consolider-et-garantir-le-fonctionnement-de-lassociation/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fconsolider-et-garantir-le-fonctionnement-de-lassociation%2F&t=Consolider%20et%20garantir%20le%20fonctionnement%20de%20l%E2%80%99association
+11:20:09	Warning: 	Found for https://afsr.fr/consolider-et-garantir-le-fonctionnement-de-lassociation/?share=twitter
+11:20:09	Warning: 	File has moved from https://afsr.fr/consolider-et-garantir-le-fonctionnement-de-lassociation/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Consolider%20et%20garantir%20le%20fonctionnement%20de%20l%E2%80%99association&url=https%3A%2F%2Fafsr.fr%2Fconsolider-et-garantir-le-fonctionnement-de-lassociation%2F
+11:20:17	Warning: 	Found for https://afsr.fr/consolider-et-garantir-le-fonctionnement-de-lassociation/?share=jetpack-whatsapp
+11:20:17	Warning: 	File has moved from https://afsr.fr/consolider-et-garantir-le-fonctionnement-de-lassociation/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Consolider%20et%20garantir%20le%20fonctionnement%20de%20l%E2%80%99association%20https%3A%2F%2Fafsr.fr%2Fconsolider-et-garantir-le-fonctionnement-de-lassociation%2F
+11:20:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://afsr.fr/photos/favicon.ico (from https://afsr.fr/photos/)
+11:22:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://www.google.com/recaptcha/api.js?hl=fr&onload=nfRenderRecaptcha&render=explicit&ver=3.8.0
+11:26:19	Warning: 	Incorrect length (5477191!=15702613 expected) for https://afsr.fr/wp-content/uploads/2019/10/RI80@.pdf
+11:27:36	Warning: 	Incorrect length (5315015!=13553882 expected) for https://afsr.fr/wp-content/uploads/2019/10/RI79@.pdf
+11:28:48	Warning: 	Incorrect length (2710064!=21651884 expected) for https://afsr.fr/wp-content/uploads/2019/10/RI74@bichro.pdf
+11:28:48	Warning: 	Incorrect length (921119!=3377872 expected) for https://afsr.fr/wp-content/uploads/2019/10/RI59@bichro.pdf
+11:28:49	Warning: 	Incorrect length (1310175!=8555282 expected) for https://afsr.fr/wp-content/uploads/2019/10/RI72@bichro.pdf
+11:31:04	Warning: 	Incorrect length (781332!=3514762 expected) for https://afsr.fr/wp-content/uploads/2018/08/RG22.pdf
+11:38:27	Warning: 	File not parsed, looks like binary: https://afsr.fr/wp-content/plugins/ninja-forms/assets/fonts/fontawesome-webfont.woff2?v=4.5.0
+11:40:22	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2019/10/RI80@.pdf (from https://afsr.fr/rett-info/)
+11:40:58	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2019/10/RI79@.pdf (from https://afsr.fr/rett-info/)
+11:40:59	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2019/10/RI74@bichro.pdf (from https://afsr.fr/rett-info/)
+11:41:22	Warning: 	Incorrect length (1615055!=3754404 expected) for https://afsr.fr/wp-content/uploads/2018/05/Rapport-annuel-2015-protégé.pdf
+11:41:22	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2019/10/RI72@bichro.pdf (from https://afsr.fr/rett-info/)
+11:41:22	Warning: 	Incorrect length (1606370!=3297362 expected) for https://afsr.fr/wp-content/uploads/2018/05/Rapport-annuel-2017-Protégé.pdf
+11:41:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://afsr.fr/wp-content/uploads/2019/10/RI71@bichro.pdf (from https://afsr.fr/rett-info/)
+11:41:23	Warning: 	Incorrect length (3461580!=3879761 expected) for https://afsr.fr/wp-content/uploads/2021/08/2021-06-02-Sarthe.-Inna-9-ans-souffre-du-syndrome-de-Rett-_-elle-progresse-grace-a-son-regard-Ouest-France.pdf
+11:41:24	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2019/10/RI59@bichro.pdf (from https://afsr.fr/rett-info/)
+11:41:29	Warning: 	Incorrect length (2653271!=9173871 expected) for https://afsr.fr/wp-content/uploads/2018/05/RA-2013.pdf
+11:41:29	Warning: 	Incorrect length (4150503!=5524903 expected) for https://afsr.fr/wp-content/uploads/2018/05/2014RapportAnnuel.pdf
+11:41:31	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2018/08/RG22.pdf (from https://afsr.fr/les-rett-gazettes/)
+11:41:33	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2021/08/2021-06-02-Sarthe.-Inna-9-ans-souffre-du-syndrome-de-Rett-_-elle-progresse-grace-a-son-regard-Ouest-France.pdf (from https://afsr.fr/revue-de-presse/)
+11:41:33	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://afsr.fr/wp-content/uploads/2018/05/Rapport-annuel-2017-Protégé.pdf (from https://afsr.fr/lafsr-vous-rend-des-comptes/)
+11:42:49	Warning: 	Incorrect length (991406!=2167520 expected) for newsitev2.afsr.fr/wp-content/uploads/2018/08/P1100611-e1534849372910.jpg
+11:42:51	Warning: 	Incorrect length (527996!=1802969 expected) for newsitev2.afsr.fr/wp-content/uploads/2018/08/JI-groupe.jpg
+11:42:51	Warning: 	Incorrect length (1325459!=5389292 expected) for https://afsr.fr/wp-content/uploads/2018/05/Rapport-Annuel-2016-BD.pdf
+11:42:52	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://afsr.fr/wp-content/uploads/2018/05/Rapport-Annuel-2016-BD.pdf (from https://afsr.fr/lafsr-vous-rend-des-comptes/)
+11:42:52	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://afsr.fr/wp-content/uploads/2018/05/Rapport-annuel-2015-protégé.pdf (from https://afsr.fr/lafsr-vous-rend-des-comptes/)
+11:42:52	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://afsr.fr/wp-content/uploads/2018/05/2014RapportAnnuel.pdf (from https://afsr.fr/lafsr-vous-rend-des-comptes/)
+11:42:52	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://afsr.fr/wp-content/uploads/2018/05/RA-2013.pdf (from https://afsr.fr/lafsr-vous-rend-des-comptes/)
+11:42:52	Warning: 	Found for https://afsr.fr/kinesitherapie/?share=facebook
+11:42:52	Warning: 	File has moved from https://afsr.fr/kinesitherapie/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fkinesitherapie%2F&t=Kin%C3%A9sith%C3%A9rapie
+11:42:53	Warning: 	Found for https://afsr.fr/kinesitherapie/?share=twitter
+11:42:53	Warning: 	File has moved from https://afsr.fr/kinesitherapie/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Kin%C3%A9sith%C3%A9rapie&url=https%3A%2F%2Fafsr.fr%2Fkinesitherapie%2F
+11:42:54	Warning: 	Found for https://afsr.fr/kinesitherapie/?share=jetpack-whatsapp
+11:42:54	Warning: 	File has moved from https://afsr.fr/kinesitherapie/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Kin%C3%A9sith%C3%A9rapie%20https%3A%2F%2Fafsr.fr%2Fkinesitherapie%2F
+11:42:54	Warning: 	Found for https://afsr.fr/orthophonie/?share=facebook
+11:42:54	Warning: 	File has moved from https://afsr.fr/orthophonie/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Forthophonie%2F&t=Orthophonie
+11:42:55	Warning: 	Found for https://afsr.fr/orthophonie/?share=twitter
+11:42:55	Warning: 	File has moved from https://afsr.fr/orthophonie/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Orthophonie&url=https%3A%2F%2Fafsr.fr%2Forthophonie%2F
+11:42:55	Warning: 	Found for https://afsr.fr/orthophonie/?share=jetpack-whatsapp
+11:42:55	Warning: 	File has moved from https://afsr.fr/orthophonie/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Orthophonie%20https%3A%2F%2Fafsr.fr%2Forthophonie%2F
+11:43:00	Error: 	"Interrupted transfer" (-4) after 2 retries at link newsitev2.afsr.fr/wp-content/uploads/2018/08/P1100611-e1534849372910.jpg (from https://afsr.fr/journees-nationales-du-syndrome-de-rett/)
+11:43:00	Error: 	"Interrupted transfer" (-4) after 2 retries at link newsitev2.afsr.fr/wp-content/uploads/2018/08/JI-groupe.jpg (from https://afsr.fr/journees-nationales-du-syndrome-de-rett/)
+11:43:19	Warning: 	Found for https://afsr.fr/produit/tote-bag-rett-dingue-de-toi/?share=facebook
+11:43:19	Warning: 	File has moved from https://afsr.fr/produit/tote-bag-rett-dingue-de-toi/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Ftote-bag-rett-dingue-de-toi%2F&t=Tote-bag%20Rett%20Dingue%20de%20Toi
+11:43:22	Warning: 	Found for https://afsr.fr/produit/tote-bag-rett-dingue-de-toi/?share=twitter
+11:43:22	Warning: 	File has moved from https://afsr.fr/produit/tote-bag-rett-dingue-de-toi/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Tote-bag%20Rett%20Dingue%20de%20Toi&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Ftote-bag-rett-dingue-de-toi%2F
+11:43:28	Warning: 	Found for https://afsr.fr/produit/tote-bag-rett-dingue-de-toi/?share=jetpack-whatsapp
+11:43:28	Warning: 	File has moved from https://afsr.fr/produit/tote-bag-rett-dingue-de-toi/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Tote-bag%20Rett%20Dingue%20de%20Toi%20https%3A%2F%2Fafsr.fr%2Fproduit%2Ftote-bag-rett-dingue-de-toi%2F
+11:43:39	Warning: 	Found for https://afsr.fr/produit/bracelet-silicone-vert/?share=facebook
+11:43:39	Warning: 	File has moved from https://afsr.fr/produit/bracelet-silicone-vert/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Fbracelet-silicone-vert%2F&t=Bracelet%20Silicone%20Vert
+11:43:44	Warning: 	Found for https://afsr.fr/produit/bracelet-silicone-vert/?share=twitter
+11:43:44	Warning: 	File has moved from https://afsr.fr/produit/bracelet-silicone-vert/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Bracelet%20Silicone%20Vert&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Fbracelet-silicone-vert%2F
+11:43:50	Warning: 	Found for https://afsr.fr/produit/bracelet-silicone-vert/?share=jetpack-whatsapp
+11:43:50	Warning: 	File has moved from https://afsr.fr/produit/bracelet-silicone-vert/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Bracelet%20Silicone%20Vert%20https%3A%2F%2Fafsr.fr%2Fproduit%2Fbracelet-silicone-vert%2F
+11:44:00	Warning: 	Incorrect length (308166!=522452 expected) for https://afsr.fr/wp-content/uploads/2020/06/LUNETTES-3.jpg
+11:44:03	Warning: 	Incorrect length (214046!=496709 expected) for https://afsr.fr/wp-content/uploads/2020/06/lunettes-2.jpg
+11:44:11	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2020/06/LUNETTES-3.jpg (from https://afsr.fr/produit/lunettes-de-soleil-dingue-de-toi/)
+11:44:12	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2020/06/lunettes-2.jpg (from https://afsr.fr/produit/lunettes-de-soleil-dingue-de-toi/)
+11:44:15	Warning: 	Found for https://afsr.fr/produit/lunettes-de-soleil-dingue-de-toi/?share=facebook
+11:44:15	Warning: 	File has moved from https://afsr.fr/produit/lunettes-de-soleil-dingue-de-toi/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Flunettes-de-soleil-dingue-de-toi%2F&t=Lunettes%20de%20soleil%20Dingue%20De%20Toi
+11:44:20	Warning: 	Found for https://afsr.fr/produit/lunettes-de-soleil-dingue-de-toi/?share=twitter
+11:44:20	Warning: 	File has moved from https://afsr.fr/produit/lunettes-de-soleil-dingue-de-toi/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Lunettes%20de%20soleil%20Dingue%20De%20Toi&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Flunettes-de-soleil-dingue-de-toi%2F
+11:44:22	Warning: 	Found for https://afsr.fr/produit/lunettes-de-soleil-dingue-de-toi/?share=jetpack-whatsapp
+11:44:22	Warning: 	File has moved from https://afsr.fr/produit/lunettes-de-soleil-dingue-de-toi/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Lunettes%20de%20soleil%20Dingue%20De%20Toi%20https%3A%2F%2Fafsr.fr%2Fproduit%2Flunettes-de-soleil-dingue-de-toi%2F
+11:44:42	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://afsr.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fafsr.fr%2Fproduit%2Fmasques-rett-dingue-de-toi%2F&format=xml (from https://afsr.fr/produit/masques-rett-dingue-de-toi/)
+11:44:47	Warning: 	Found for https://afsr.fr/produit/masques-rett-dingue-de-toi/?share=facebook
+11:44:47	Warning: 	File has moved from https://afsr.fr/produit/masques-rett-dingue-de-toi/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Fmasques-rett-dingue-de-toi%2F&t=Masque%20Rett%20Dingue%20De%20Toi
+11:44:49	Warning: 	Found for https://afsr.fr/produit/masques-rett-dingue-de-toi/?share=twitter
+11:44:49	Warning: 	File has moved from https://afsr.fr/produit/masques-rett-dingue-de-toi/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Masque%20Rett%20Dingue%20De%20Toi&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Fmasques-rett-dingue-de-toi%2F
+11:44:50	Warning: 	Found for https://afsr.fr/produit/masques-rett-dingue-de-toi/?share=jetpack-whatsapp
+11:44:50	Warning: 	File has moved from https://afsr.fr/produit/masques-rett-dingue-de-toi/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Masque%20Rett%20Dingue%20De%20Toi%20https%3A%2F%2Fafsr.fr%2Fproduit%2Fmasques-rett-dingue-de-toi%2F
+11:45:37	Warning: 	Found for https://afsr.fr/produit/casquette-verte/?share=facebook
+11:45:37	Warning: 	File has moved from https://afsr.fr/produit/casquette-verte/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Fcasquette-verte%2F&t=Casquette%20verte
+11:45:37	Warning: 	Found for https://afsr.fr/produit/casquette-verte/?share=twitter
+11:45:37	Warning: 	File has moved from https://afsr.fr/produit/casquette-verte/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Casquette%20verte&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Fcasquette-verte%2F
+11:45:39	Warning: 	Found for https://afsr.fr/produit/casquette-verte/?share=jetpack-whatsapp
+11:45:39	Warning: 	File has moved from https://afsr.fr/produit/casquette-verte/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Casquette%20verte%20https%3A%2F%2Fafsr.fr%2Fproduit%2Fcasquette-verte%2F
+11:45:47	Warning: 	Found for https://afsr.fr/produit/bracelet-eponge/?share=facebook
+11:45:47	Warning: 	File has moved from https://afsr.fr/produit/bracelet-eponge/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Fbracelet-eponge%2F&t=Bracelet%20%C3%A9ponge
+11:45:52	Warning: 	Found for https://afsr.fr/produit/bracelet-eponge/?share=twitter
+11:45:52	Warning: 	File has moved from https://afsr.fr/produit/bracelet-eponge/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Bracelet%20%C3%A9ponge&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Fbracelet-eponge%2F
+11:45:54	Warning: 	Found for https://afsr.fr/produit/bracelet-eponge/?share=jetpack-whatsapp
+11:45:54	Warning: 	File has moved from https://afsr.fr/produit/bracelet-eponge/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Bracelet%20%C3%A9ponge%20https%3A%2F%2Fafsr.fr%2Fproduit%2Fbracelet-eponge%2F
+11:46:07	Warning: 	Found for https://afsr.fr/produit/t-shirt-rett-dingue-de-toi-femme/?share=facebook
+11:46:07	Warning: 	File has moved from https://afsr.fr/produit/t-shirt-rett-dingue-de-toi-femme/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Ft-shirt-rett-dingue-de-toi-femme%2F&t=T.Shirt%20Rett%20Dingue%20De%20Toi%20col%20V
+11:46:10	Warning: 	Found for https://afsr.fr/produit/t-shirt-rett-dingue-de-toi-femme/?share=twitter
+11:46:10	Warning: 	File has moved from https://afsr.fr/produit/t-shirt-rett-dingue-de-toi-femme/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=T.Shirt%20Rett%20Dingue%20De%20Toi%20col%20V&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Ft-shirt-rett-dingue-de-toi-femme%2F
+11:46:14	Warning: 	Found for https://afsr.fr/produit/t-shirt-rett-dingue-de-toi-femme/?share=jetpack-whatsapp
+11:46:14	Warning: 	File has moved from https://afsr.fr/produit/t-shirt-rett-dingue-de-toi-femme/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=T.Shirt%20Rett%20Dingue%20De%20Toi%20col%20V%20https%3A%2F%2Fafsr.fr%2Fproduit%2Ft-shirt-rett-dingue-de-toi-femme%2F
+11:46:32	Warning: 	Retry after error -4 (No data (connection closed)) at link https://afsr.fr/size/xl/ (from https://afsr.fr/produit/t-shirt-rett-dingue-de-toi-femme/)
+11:46:38	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/size/xxl/ (from https://afsr.fr/produit/t-shirt-rett-dingue-de-toi-femme/)
+11:46:44	Warning: 	Found for https://afsr.fr/produit/t-shirt-rett-dingue-de-toi-homme/?share=facebook
+11:46:44	Warning: 	File has moved from https://afsr.fr/produit/t-shirt-rett-dingue-de-toi-homme/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Ft-shirt-rett-dingue-de-toi-homme%2F&t=T.Shirt%20Rett%20Dingue%20De%20Toi%20col%20rond
+11:46:45	Warning: 	Found for https://afsr.fr/produit/t-shirt-rett-dingue-de-toi-homme/?share=twitter
+11:46:45	Warning: 	File has moved from https://afsr.fr/produit/t-shirt-rett-dingue-de-toi-homme/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=T.Shirt%20Rett%20Dingue%20De%20Toi%20col%20rond&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Ft-shirt-rett-dingue-de-toi-homme%2F
+11:46:53	Warning: 	Found for https://afsr.fr/produit/t-shirt-rett-dingue-de-toi-homme/?share=jetpack-whatsapp
+11:46:53	Warning: 	File has moved from https://afsr.fr/produit/t-shirt-rett-dingue-de-toi-homme/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=T.Shirt%20Rett%20Dingue%20De%20Toi%20col%20rond%20https%3A%2F%2Fafsr.fr%2Fproduit%2Ft-shirt-rett-dingue-de-toi-homme%2F
+11:47:16	Warning: 	Found for https://afsr.fr/produit/tasse-rett-dingue-de-toi/?share=facebook
+11:47:16	Warning: 	File has moved from https://afsr.fr/produit/tasse-rett-dingue-de-toi/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Ftasse-rett-dingue-de-toi%2F&t=Tasse%20Rett%20dingue%20de%20Toi
+11:47:29	Warning: 	Found for https://afsr.fr/produit/tasse-rett-dingue-de-toi/?share=twitter
+11:47:29	Warning: 	File has moved from https://afsr.fr/produit/tasse-rett-dingue-de-toi/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Tasse%20Rett%20dingue%20de%20Toi&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Ftasse-rett-dingue-de-toi%2F
+11:47:36	Warning: 	Found for https://afsr.fr/produit/tasse-rett-dingue-de-toi/?share=jetpack-whatsapp
+11:47:36	Warning: 	File has moved from https://afsr.fr/produit/tasse-rett-dingue-de-toi/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Tasse%20Rett%20dingue%20de%20Toi%20https%3A%2F%2Fafsr.fr%2Fproduit%2Ftasse-rett-dingue-de-toi%2F
+11:47:44	Warning: 	Found for https://afsr.fr/produit/sweat-rett-dingue-de-toi/?share=facebook
+11:47:44	Warning: 	File has moved from https://afsr.fr/produit/sweat-rett-dingue-de-toi/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Fsweat-rett-dingue-de-toi%2F&t=Sweat%20Rett%20dingue%20de%20Toi
+11:47:51	Warning: 	Found for https://afsr.fr/produit/sweat-rett-dingue-de-toi/?share=twitter
+11:47:51	Warning: 	File has moved from https://afsr.fr/produit/sweat-rett-dingue-de-toi/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Sweat%20Rett%20dingue%20de%20Toi&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Fsweat-rett-dingue-de-toi%2F
+11:48:03	Warning: 	Found for https://afsr.fr/produit/sweat-rett-dingue-de-toi/?share=jetpack-whatsapp
+11:48:03	Warning: 	File has moved from https://afsr.fr/produit/sweat-rett-dingue-de-toi/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Sweat%20Rett%20dingue%20de%20Toi%20https%3A%2F%2Fafsr.fr%2Fproduit%2Fsweat-rett-dingue-de-toi%2F
+11:48:19	Warning: 	Found for https://afsr.fr/produit/gourde-rett-dingue-de-toi/?share=facebook
+11:48:19	Warning: 	File has moved from https://afsr.fr/produit/gourde-rett-dingue-de-toi/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Fgourde-rett-dingue-de-toi%2F&t=Gourde%20Rett%20Dingue%20De%20Toi
+11:48:22	Warning: 	Found for https://afsr.fr/produit/gourde-rett-dingue-de-toi/?share=twitter
+11:48:22	Warning: 	File has moved from https://afsr.fr/produit/gourde-rett-dingue-de-toi/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Gourde%20Rett%20Dingue%20De%20Toi&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Fgourde-rett-dingue-de-toi%2F
+11:48:27	Warning: 	Found for https://afsr.fr/produit/gourde-rett-dingue-de-toi/?share=jetpack-whatsapp
+11:48:27	Warning: 	File has moved from https://afsr.fr/produit/gourde-rett-dingue-de-toi/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Gourde%20Rett%20Dingue%20De%20Toi%20https%3A%2F%2Fafsr.fr%2Fproduit%2Fgourde-rett-dingue-de-toi%2F
+11:48:34	Warning: 	Found for https://afsr.fr/produit/sac-isotherme-rett-dingue-de-toi/?share=facebook
+11:48:34	Warning: 	File has moved from https://afsr.fr/produit/sac-isotherme-rett-dingue-de-toi/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Fsac-isotherme-rett-dingue-de-toi%2F&t=Sac%20isotherme%20Rett%20dingue%20de%20toi
+11:48:36	Warning: 	Found for https://afsr.fr/produit/sac-isotherme-rett-dingue-de-toi/?share=twitter
+11:48:36	Warning: 	File has moved from https://afsr.fr/produit/sac-isotherme-rett-dingue-de-toi/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Sac%20isotherme%20Rett%20dingue%20de%20toi&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Fsac-isotherme-rett-dingue-de-toi%2F
+11:48:39	Warning: 	Found for https://afsr.fr/produit/sac-isotherme-rett-dingue-de-toi/?share=jetpack-whatsapp
+11:48:39	Warning: 	File has moved from https://afsr.fr/produit/sac-isotherme-rett-dingue-de-toi/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Sac%20isotherme%20Rett%20dingue%20de%20toi%20https%3A%2F%2Fafsr.fr%2Fproduit%2Fsac-isotherme-rett-dingue-de-toi%2F
+11:48:45	Warning: 	Found for https://afsr.fr/produit/tatouage-ephemere/?share=facebook
+11:48:45	Warning: 	File has moved from https://afsr.fr/produit/tatouage-ephemere/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Ftatouage-ephemere%2F&t=Tatouage%20%C3%A9ph%C3%A9m%C3%A8re
+11:48:47	Warning: 	Found for https://afsr.fr/produit/tatouage-ephemere/?share=twitter
+11:48:47	Warning: 	File has moved from https://afsr.fr/produit/tatouage-ephemere/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Tatouage%20%C3%A9ph%C3%A9m%C3%A8re&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Ftatouage-ephemere%2F
+11:48:51	Warning: 	Found for https://afsr.fr/produit/tatouage-ephemere/?share=jetpack-whatsapp
+11:48:51	Warning: 	File has moved from https://afsr.fr/produit/tatouage-ephemere/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Tatouage%20%C3%A9ph%C3%A9m%C3%A8re%20https%3A%2F%2Fafsr.fr%2Fproduit%2Ftatouage-ephemere%2F
+11:49:02	Warning: 	Found for https://afsr.fr/produit/porte-cles-papillon/?share=facebook
+11:49:02	Warning: 	File has moved from https://afsr.fr/produit/porte-cles-papillon/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Fporte-cles-papillon%2F&t=Porte-Cl%C3%A9s%20Papillon
+11:49:06	Warning: 	Found for https://afsr.fr/produit/porte-cles-papillon/?share=twitter
+11:49:06	Warning: 	File has moved from https://afsr.fr/produit/porte-cles-papillon/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Porte-Cl%C3%A9s%20Papillon&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Fporte-cles-papillon%2F
+11:49:39	Warning: 	Found for https://afsr.fr/produit/porte-cles-papillon/?share=jetpack-whatsapp
+11:49:39	Warning: 	File has moved from https://afsr.fr/produit/porte-cles-papillon/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Porte-Cl%C3%A9s%20Papillon%20https%3A%2F%2Fafsr.fr%2Fproduit%2Fporte-cles-papillon%2F
+11:49:48	Warning: 	Found for https://afsr.fr/produit/sticker-voiture-princesse/?share=facebook
+11:49:48	Warning: 	File has moved from https://afsr.fr/produit/sticker-voiture-princesse/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Fsticker-voiture-princesse%2F&t=Sticker%20voiture%20Princesse
+11:49:50	Warning: 	Found for https://afsr.fr/produit/sticker-voiture-princesse/?share=twitter
+11:49:50	Warning: 	File has moved from https://afsr.fr/produit/sticker-voiture-princesse/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Sticker%20voiture%20Princesse&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Fsticker-voiture-princesse%2F
+11:49:50	Warning: 	Found for https://afsr.fr/produit/sticker-voiture-princesse/?share=jetpack-whatsapp
+11:49:50	Warning: 	File has moved from https://afsr.fr/produit/sticker-voiture-princesse/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Sticker%20voiture%20Princesse%20https%3A%2F%2Fafsr.fr%2Fproduit%2Fsticker-voiture-princesse%2F
+11:50:15	Warning: 	Found for https://afsr.fr/produit/peluche-souris-rett/?share=facebook
+11:50:15	Warning: 	File has moved from https://afsr.fr/produit/peluche-souris-rett/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Fpeluche-souris-rett%2F&t=Peluche%20souris%20Rett
+11:50:17	Warning: 	Found for https://afsr.fr/produit/peluche-souris-rett/?share=twitter
+11:50:17	Warning: 	File has moved from https://afsr.fr/produit/peluche-souris-rett/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Peluche%20souris%20Rett&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Fpeluche-souris-rett%2F
+11:50:18	Warning: 	Found for https://afsr.fr/produit/peluche-souris-rett/?share=jetpack-whatsapp
+11:50:18	Warning: 	File has moved from https://afsr.fr/produit/peluche-souris-rett/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Peluche%20souris%20Rett%20https%3A%2F%2Fafsr.fr%2Fproduit%2Fpeluche-souris-rett%2F
+11:50:25	Warning: 	Found for https://afsr.fr/produit/sticker-logo-afsr/?share=facebook
+11:50:25	Warning: 	File has moved from https://afsr.fr/produit/sticker-logo-afsr/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Fsticker-logo-afsr%2F&t=Sticker%20Logo%20AFSR
+11:50:32	Warning: 	Found for https://afsr.fr/produit/sticker-logo-afsr/?share=twitter
+11:50:32	Warning: 	File has moved from https://afsr.fr/produit/sticker-logo-afsr/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Sticker%20Logo%20AFSR&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Fsticker-logo-afsr%2F
+11:50:34	Warning: 	Found for https://afsr.fr/produit/sticker-logo-afsr/?share=jetpack-whatsapp
+11:50:34	Warning: 	File has moved from https://afsr.fr/produit/sticker-logo-afsr/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Sticker%20Logo%20AFSR%20https%3A%2F%2Fafsr.fr%2Fproduit%2Fsticker-logo-afsr%2F
+11:50:58	Warning: 	Found for https://afsr.fr/produit/sticker-voiture-joie-de-vivre/?share=facebook
+11:50:58	Warning: 	File has moved from https://afsr.fr/produit/sticker-voiture-joie-de-vivre/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Fsticker-voiture-joie-de-vivre%2F&t=Sticker%20voiture%20Joie%20de%20vivre
+11:51:04	Warning: 	Found for https://afsr.fr/produit/sticker-voiture-joie-de-vivre/?share=twitter
+11:51:04	Warning: 	File has moved from https://afsr.fr/produit/sticker-voiture-joie-de-vivre/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Sticker%20voiture%20Joie%20de%20vivre&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Fsticker-voiture-joie-de-vivre%2F
+11:51:05	Warning: 	Found for https://afsr.fr/produit/sticker-voiture-joie-de-vivre/?share=jetpack-whatsapp
+11:51:05	Warning: 	File has moved from https://afsr.fr/produit/sticker-voiture-joie-de-vivre/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Sticker%20voiture%20Joie%20de%20vivre%20https%3A%2F%2Fafsr.fr%2Fproduit%2Fsticker-voiture-joie-de-vivre%2F
+11:51:13	Warning: 	Found for https://afsr.fr/produit/porte-cles-jeton/?share=facebook
+11:51:13	Warning: 	File has moved from https://afsr.fr/produit/porte-cles-jeton/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Fporte-cles-jeton%2F&t=Porte-cl%C3%A9s%20jeton
+11:51:15	Warning: 	Found for https://afsr.fr/produit/porte-cles-jeton/?share=twitter
+11:51:15	Warning: 	File has moved from https://afsr.fr/produit/porte-cles-jeton/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Porte-cl%C3%A9s%20jeton&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Fporte-cles-jeton%2F
+11:51:18	Warning: 	Found for https://afsr.fr/produit/porte-cles-jeton/?share=jetpack-whatsapp
+11:51:18	Warning: 	File has moved from https://afsr.fr/produit/porte-cles-jeton/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Porte-cl%C3%A9s%20jeton%20https%3A%2F%2Fafsr.fr%2Fproduit%2Fporte-cles-jeton%2F
+11:51:21	Warning: 	Found for https://afsr.fr/produit/sticker-voiture-padawan/?share=facebook
+11:51:21	Warning: 	File has moved from https://afsr.fr/produit/sticker-voiture-padawan/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Fsticker-voiture-padawan%2F&t=Sticker%20voiture%20Padawan
+11:51:29	Warning: 	Found for https://afsr.fr/produit/sticker-voiture-padawan/?share=twitter
+11:51:29	Warning: 	File has moved from https://afsr.fr/produit/sticker-voiture-padawan/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Sticker%20voiture%20Padawan&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Fsticker-voiture-padawan%2F
+11:51:30	Warning: 	Found for https://afsr.fr/produit/sticker-voiture-padawan/?share=jetpack-whatsapp
+11:51:30	Warning: 	File has moved from https://afsr.fr/produit/sticker-voiture-padawan/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Sticker%20voiture%20Padawan%20https%3A%2F%2Fafsr.fr%2Fproduit%2Fsticker-voiture-padawan%2F
+11:51:32	Warning: 	Retry after error -4 (No data (connection closed)) at link https://afsr.fr/produit/sticker-voiture-padawan/?add-to-cart=6345 (from https://afsr.fr/produit/sticker-voiture-padawan/)
+11:51:37	Warning: 	Found for https://afsr.fr/produit/livre-le-syndrome-de-rett-une-maladie-dorigine-genetique/?share=facebook
+11:51:37	Warning: 	File has moved from https://afsr.fr/produit/livre-le-syndrome-de-rett-une-maladie-dorigine-genetique/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Flivre-le-syndrome-de-rett-une-maladie-dorigine-genetique%2F&t=Livre%20Le%20syndrome%20de%20Rett%20-%20une%20maladie%20d%27origine%20g%C3%A9n%C3%A9tique
+11:51:39	Warning: 	Found for https://afsr.fr/produit/livre-le-syndrome-de-rett-une-maladie-dorigine-genetique/?share=twitter
+11:51:39	Warning: 	File has moved from https://afsr.fr/produit/livre-le-syndrome-de-rett-une-maladie-dorigine-genetique/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Livre%20Le%20syndrome%20de%20Rett%20-%20une%20maladie%20d%27origine%20g%C3%A9n%C3%A9tique&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Flivre-le-syndrome-de-rett-une-maladie-dorigine-genetique%2F
+11:51:40	Warning: 	Found for https://afsr.fr/produit/livre-le-syndrome-de-rett-une-maladie-dorigine-genetique/?share=jetpack-whatsapp
+11:51:40	Warning: 	File has moved from https://afsr.fr/produit/livre-le-syndrome-de-rett-une-maladie-dorigine-genetique/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Livre%20Le%20syndrome%20de%20Rett%20-%20une%20maladie%20d%27origine%20g%C3%A9n%C3%A9tique%20https%3A%2F%2Fafsr.fr%2Fproduit%2Flivre-le-syndrome-de-rett-une-maladie-dorigine-genetique%2F
+11:52:01	Warning: 	Found for https://afsr.fr/produit/livre-dans-les-yeux-de-lena/?share=facebook
+11:52:01	Warning: 	File has moved from https://afsr.fr/produit/livre-dans-les-yeux-de-lena/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Flivre-dans-les-yeux-de-lena%2F&t=Livre%20Dans%20les%20yeux%20de%20L%C3%A9na
+11:52:02	Warning: 	Found for https://afsr.fr/produit/livre-dans-les-yeux-de-lena/?share=twitter
+11:52:02	Warning: 	File has moved from https://afsr.fr/produit/livre-dans-les-yeux-de-lena/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Livre%20Dans%20les%20yeux%20de%20L%C3%A9na&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Flivre-dans-les-yeux-de-lena%2F
+11:52:03	Warning: 	Found for https://afsr.fr/produit/livre-dans-les-yeux-de-lena/?share=jetpack-whatsapp
+11:52:03	Warning: 	File has moved from https://afsr.fr/produit/livre-dans-les-yeux-de-lena/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Livre%20Dans%20les%20yeux%20de%20L%C3%A9na%20https%3A%2F%2Fafsr.fr%2Fproduit%2Flivre-dans-les-yeux-de-lena%2F
+11:52:16	Warning: 	Found for https://afsr.fr/produit/etui-4-stylos-noirs/?share=facebook
+11:52:16	Warning: 	File has moved from https://afsr.fr/produit/etui-4-stylos-noirs/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Fetui-4-stylos-noirs%2F&t=Etui%204%20stylos%20%C3%A0%20bille%20roller
+11:52:18	Warning: 	Found for https://afsr.fr/produit/etui-4-stylos-noirs/?share=twitter
+11:52:18	Warning: 	File has moved from https://afsr.fr/produit/etui-4-stylos-noirs/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Etui%204%20stylos%20%C3%A0%20bille%20roller&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Fetui-4-stylos-noirs%2F
+11:52:24	Warning: 	Found for https://afsr.fr/produit/etui-4-stylos-noirs/?share=jetpack-whatsapp
+11:52:24	Warning: 	File has moved from https://afsr.fr/produit/etui-4-stylos-noirs/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Etui%204%20stylos%20%C3%A0%20bille%20roller%20https%3A%2F%2Fafsr.fr%2Fproduit%2Fetui-4-stylos-noirs%2F
+11:52:39	Warning: 	Incorrect length (221286!=475029 expected) for https://afsr.fr/wp-content/uploads/2021/06/LArchipel-de-Nouna-1-e1623245020978.jpg
+11:52:40	Warning: 	Found for https://afsr.fr/produit/livre-vrett-la-sourie-verte/?share=facebook
+11:52:40	Warning: 	File has moved from https://afsr.fr/produit/livre-vrett-la-sourie-verte/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Flivre-vrett-la-sourie-verte%2F&t=Livre%20V%27Rett%20la%20souris%20verte
+11:52:43	Warning: 	Found for https://afsr.fr/produit/livre-vrett-la-sourie-verte/?share=twitter
+11:52:43	Warning: 	File has moved from https://afsr.fr/produit/livre-vrett-la-sourie-verte/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Livre%20V%27Rett%20la%20souris%20verte&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Flivre-vrett-la-sourie-verte%2F
+11:52:44	Warning: 	Found for https://afsr.fr/produit/livre-vrett-la-sourie-verte/?share=jetpack-whatsapp
+11:52:44	Warning: 	File has moved from https://afsr.fr/produit/livre-vrett-la-sourie-verte/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Livre%20V%27Rett%20la%20souris%20verte%20https%3A%2F%2Fafsr.fr%2Fproduit%2Flivre-vrett-la-sourie-verte%2F
+11:52:48	Warning: 	Incorrect length (54765!=1082861 expected) for https://afsr.fr/wp-content/uploads/2023/09/La-chanson-Karly-2.jpg
+11:52:49	Warning: 	Incorrect length (115582!=869271 expected) for https://afsr.fr/wp-content/uploads/2023/09/La-chanson-karly.jpg
+11:52:59	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2021/06/LArchipel-de-Nouna-1-e1623245020978.jpg (from https://afsr.fr/produit/livre-larchipel-de-nouna/)
+11:53:00	Warning: 	Found for https://afsr.fr/produit/livre-larchipel-de-nouna/?share=facebook
+11:53:00	Warning: 	File has moved from https://afsr.fr/produit/livre-larchipel-de-nouna/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Flivre-larchipel-de-nouna%2F&t=Livre%20L%27Archipel%20de%20Nouna
+11:53:01	Warning: 	Found for https://afsr.fr/produit/livre-larchipel-de-nouna/?share=twitter
+11:53:01	Warning: 	File has moved from https://afsr.fr/produit/livre-larchipel-de-nouna/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Livre%20L%27Archipel%20de%20Nouna&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Flivre-larchipel-de-nouna%2F
+11:53:01	Warning: 	Found for https://afsr.fr/produit/livre-larchipel-de-nouna/?share=jetpack-whatsapp
+11:53:01	Warning: 	File has moved from https://afsr.fr/produit/livre-larchipel-de-nouna/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Livre%20L%27Archipel%20de%20Nouna%20https%3A%2F%2Fafsr.fr%2Fproduit%2Flivre-larchipel-de-nouna%2F
+11:53:11	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2023/09/La-chanson-karly.jpg (from https://afsr.fr/produit/livre-la-chanson-de-karly/)
+11:53:11	Warning: 	Retry after error -4 (Interrupted transfer) at link https://afsr.fr/wp-content/uploads/2023/09/La-chanson-Karly-2.jpg (from https://afsr.fr/produit/livre-la-chanson-de-karly/)
+11:53:11	Warning: 	Found for https://afsr.fr/produit/livre-la-chanson-de-karly/?share=facebook
+11:53:11	Warning: 	File has moved from https://afsr.fr/produit/livre-la-chanson-de-karly/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Flivre-la-chanson-de-karly%2F&t=Livre%20La%20Chanson%20de%20Karly
+11:53:19	Warning: 	Found for https://afsr.fr/produit/livre-la-chanson-de-karly/?share=twitter
+11:53:19	Warning: 	File has moved from https://afsr.fr/produit/livre-la-chanson-de-karly/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=Livre%20La%20Chanson%20de%20Karly&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Flivre-la-chanson-de-karly%2F
+11:53:21	Warning: 	Found for https://afsr.fr/produit/livre-la-chanson-de-karly/?share=jetpack-whatsapp
+11:53:21	Warning: 	File has moved from https://afsr.fr/produit/livre-la-chanson-de-karly/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=Livre%20La%20Chanson%20de%20Karly%20https%3A%2F%2Fafsr.fr%2Fproduit%2Flivre-la-chanson-de-karly%2F
+11:53:43	Warning: 	Found for https://afsr.fr/produit/t-shirt-running/?share=facebook
+11:53:43	Warning: 	File has moved from https://afsr.fr/produit/t-shirt-running/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Ft-shirt-running%2F&t=T.Shirt%20Running
+11:53:44	Warning: 	Found for https://afsr.fr/produit/t-shirt-running/?share=twitter
+11:53:44	Warning: 	File has moved from https://afsr.fr/produit/t-shirt-running/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=T.Shirt%20Running&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Ft-shirt-running%2F
+11:53:46	Warning: 	Found for https://afsr.fr/produit/t-shirt-running/?share=jetpack-whatsapp
+11:53:46	Warning: 	File has moved from https://afsr.fr/produit/t-shirt-running/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=T.Shirt%20Running%20https%3A%2F%2Fafsr.fr%2Fproduit%2Ft-shirt-running%2F
+11:54:48	Warning: 	Found for https://afsr.fr/produit/tee-shirt-homme-full-cut-screen-stars-original/?share=facebook
+11:54:48	Warning: 	File has moved from https://afsr.fr/produit/tee-shirt-homme-full-cut-screen-stars-original/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Ftee-shirt-homme-full-cut-screen-stars-original%2F&t=T.Shirt%20Col%20Rond
+11:55:13	Warning: 	Incorrect length (3312105!=21651884 expected) for https://afsr.fr/wp-content/uploads/2019/10/RI74@bichro.pdf
+11:55:13	Warning: 	Incorrect length (6153081!=13553882 expected) for https://afsr.fr/wp-content/uploads/2019/10/RI79@.pdf
+11:55:14	Warning: 	Found for https://afsr.fr/produit/tee-shirt-homme-full-cut-screen-stars-original/?share=twitter
+11:55:14	Warning: 	File has moved from https://afsr.fr/produit/tee-shirt-homme-full-cut-screen-stars-original/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=T.Shirt%20Col%20Rond&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Ftee-shirt-homme-full-cut-screen-stars-original%2F
+11:55:14	Warning: 	Incorrect length (6258784!=15702613 expected) for https://afsr.fr/wp-content/uploads/2019/10/RI80@.pdf
+11:55:15	Warning: 	Incorrect length (1709499!=8555282 expected) for https://afsr.fr/wp-content/uploads/2019/10/RI72@bichro.pdf
+11:55:15	Warning: 	Found for https://afsr.fr/produit/tee-shirt-homme-full-cut-screen-stars-original/?share=jetpack-whatsapp
+11:55:15	Warning: 	File has moved from https://afsr.fr/produit/tee-shirt-homme-full-cut-screen-stars-original/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=T.Shirt%20Col%20Rond%20https%3A%2F%2Fafsr.fr%2Fproduit%2Ftee-shirt-homme-full-cut-screen-stars-original%2F
+11:55:23	Warning: 	Incorrect length (3600265!=3879761 expected) for https://afsr.fr/wp-content/uploads/2021/08/2021-06-02-Sarthe.-Inna-9-ans-souffre-du-syndrome-de-Rett-_-elle-progresse-grace-a-son-regard-Ouest-France.pdf
+11:55:24	Warning: 	Found for https://afsr.fr/produit/tee-shirt-col-v/?share=facebook
+11:55:24	Warning: 	File has moved from https://afsr.fr/produit/tee-shirt-col-v/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Ftee-shirt-col-v%2F&t=T-Shirt%20Col%20V
+11:55:24	Warning: 	Incorrect length (1285692!=3377872 expected) for https://afsr.fr/wp-content/uploads/2019/10/RI59@bichro.pdf
+11:55:25	Warning: 	Incorrect length (3325467!=8309234 expected) for https://afsr.fr/wp-content/uploads/2019/10/RI71@bichro.pdf
+11:55:25	Warning: 	Found for https://afsr.fr/produit/tee-shirt-col-v/?share=twitter
+11:55:25	Warning: 	File has moved from https://afsr.fr/produit/tee-shirt-col-v/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=T-Shirt%20Col%20V&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Ftee-shirt-col-v%2F
+11:55:25	Warning: 	Found for https://afsr.fr/produit/tee-shirt-col-v/?share=jetpack-whatsapp
+11:55:25	Warning: 	File has moved from https://afsr.fr/produit/tee-shirt-col-v/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=T-Shirt%20Col%20V%20https%3A%2F%2Fafsr.fr%2Fproduit%2Ftee-shirt-col-v%2F
+11:55:26	Warning: 	Found for https://afsr.fr/produit/tee-shirt-enfant/?share=facebook
+11:55:26	Warning: 	File has moved from https://afsr.fr/produit/tee-shirt-enfant/?share=facebook to https://www.facebook.com/sharer.php?u=https%3A%2F%2Fafsr.fr%2Fproduit%2Ftee-shirt-enfant%2F&t=T.Shirt%20Enfant
+11:55:26	Warning: 	Found for https://afsr.fr/produit/tee-shirt-enfant/?share=twitter
+11:55:26	Warning: 	File has moved from https://afsr.fr/produit/tee-shirt-enfant/?share=twitter to https://twitter.com/intent/tweet?via=AFSRett&text=T.Shirt%20Enfant&url=https%3A%2F%2Fafsr.fr%2Fproduit%2Ftee-shirt-enfant%2F
+11:55:27	Warning: 	Found for https://afsr.fr/produit/tee-shirt-enfant/?share=jetpack-whatsapp
+11:55:27	Warning: 	File has moved from https://afsr.fr/produit/tee-shirt-enfant/?share=jetpack-whatsapp to https://api.whatsapp.com/send?text=T.Shirt%20Enfant%20https%3A%2F%2Fafsr.fr%2Fproduit%2Ftee-shirt-enfant%2F
+11:55:43	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://afsr.fr/wp-content/uploads/2019/10/RI80@.pdf (from https://afsr.fr/rett-info/)
+11:55:43	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://afsr.fr/wp-content/uploads/2019/10/RI79@.pdf (from https://afsr.fr/rett-info/)
+11:55:43	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://afsr.fr/wp-content/uploads/2019/10/RI74@bichro.pdf (from https://afsr.fr/rett-info/)
+11:55:44	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://afsr.fr/wp-content/uploads/2019/10/RI72@bichro.pdf (from https://afsr.fr/rett-info/)
+11:55:44	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://afsr.fr/wp-content/uploads/2019/10/RI71@bichro.pdf (from https://afsr.fr/rett-info/)
+11:55:44	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://afsr.fr/wp-content/uploads/2019/10/RI59@bichro.pdf (from https://afsr.fr/rett-info/)
+11:57:47	Error: 	"Interrupted transfer" (-4) after 2 retries at link https://afsr.fr/wp-content/uploads/2021/08/2021-06-02-Sarthe.-Inna-9-ans-souffre-du-syndrome-de-Rett-_-elle-progresse-grace-a-son-regard-Ouest-France.pdf (from https://afsr.fr/revue-de-presse/)
+11:58:43	Warning: 	Found for https://afsr.fr/panier/?remove_item=22508552d3fc22f867e33e6c56b30b16&_wpnonce=adc54c21b7
+11:58:43	Warning: 	File has moved from https://afsr.fr/panier/?remove_item=22508552d3fc22f867e33e6c56b30b16&_wpnonce=adc54c21b7 to http://afsr.fr/panier/?removed_item=1
+11:58:50	Warning: 	Found for https://afsr.fr/panier/?remove_item=9b1c93a6864c39e48417ee486b83c387&_wpnonce=adc54c21b7
+11:58:50	Warning: 	File has moved from https://afsr.fr/panier/?remove_item=9b1c93a6864c39e48417ee486b83c387&_wpnonce=adc54c21b7 to http://afsr.fr/panier/?removed_item=1
+11:59:06	Warning: 	Found for https://afsr.fr/panier/?remove_item=e5e6851e7f7ffd3530e7389e183aa468&_wpnonce=adc54c21b7
+11:59:06	Warning: 	File has moved from https://afsr.fr/panier/?remove_item=e5e6851e7f7ffd3530e7389e183aa468&_wpnonce=adc54c21b7 to http://afsr.fr/panier/?removed_item=1
+11:59:06	Warning: 	Found for https://afsr.fr/panier/?remove_item=af88d16112663ef32519c582073f44c4&_wpnonce=adc54c21b7
+11:59:06	Warning: 	File has moved from https://afsr.fr/panier/?remove_item=af88d16112663ef32519c582073f44c4&_wpnonce=adc54c21b7 to http://afsr.fr/panier/?removed_item=1
+11:59:06	Warning: 	Found for https://afsr.fr/panier/?remove_item=4afa19649ae378da31a423bcd78a97c8&_wpnonce=adc54c21b7
+11:59:06	Warning: 	File has moved from https://afsr.fr/panier/?remove_item=4afa19649ae378da31a423bcd78a97c8&_wpnonce=adc54c21b7 to http://afsr.fr/panier/?removed_item=1
+11:59:06	Warning: 	Found for https://afsr.fr/panier/?remove_item=ca9541826e97c4530b07dda2eba0e013&_wpnonce=adc54c21b7
+11:59:06	Warning: 	File has moved from https://afsr.fr/panier/?remove_item=ca9541826e97c4530b07dda2eba0e013&_wpnonce=adc54c21b7 to http://afsr.fr/panier/?removed_item=1
+11:59:06	Warning: 	Found for https://afsr.fr/panier/?remove_item=a46b6b588543109f13ff64b2bf1104f0&_wpnonce=adc54c21b7
+11:59:06	Warning: 	File has moved from https://afsr.fr/panier/?remove_item=a46b6b588543109f13ff64b2bf1104f0&_wpnonce=adc54c21b7 to http://afsr.fr/panier/?removed_item=1
+11:59:06	Warning: 	Found for https://afsr.fr/panier/?remove_item=ae5e3ce40e0404a45ecacaaf05e5f735&_wpnonce=adc54c21b7
+11:59:06	Warning: 	File has moved from https://afsr.fr/panier/?remove_item=ae5e3ce40e0404a45ecacaaf05e5f735&_wpnonce=adc54c21b7 to http://afsr.fr/panier/?removed_item=1
+11:59:06	Warning: 	Found for https://afsr.fr/panier/?remove_item=fdda6e957f1e5ee2f3b311fe4f145ae1&_wpnonce=adc54c21b7
+11:59:06	Warning: 	File has moved from https://afsr.fr/panier/?remove_item=fdda6e957f1e5ee2f3b311fe4f145ae1&_wpnonce=adc54c21b7 to http://afsr.fr/panier/?removed_item=1
+11:59:06	Warning: 	Found for https://afsr.fr/panier/?remove_item=5fde40544cff0001484ecae2466ce96e&_wpnonce=adc54c21b7
+11:59:06	Warning: 	File has moved from https://afsr.fr/panier/?remove_item=5fde40544cff0001484ecae2466ce96e&_wpnonce=adc54c21b7 to http://afsr.fr/panier/?removed_item=1
+11:59:06	Warning: 	Found for https://afsr.fr/panier/?remove_item=ec20019911a77ad39d023710be68aaa1&_wpnonce=adc54c21b7
+11:59:06	Warning: 	File has moved from https://afsr.fr/panier/?remove_item=ec20019911a77ad39d023710be68aaa1&_wpnonce=adc54c21b7 to http://afsr.fr/panier/?removed_item=1
+11:59:06	Warning: 	Found for https://afsr.fr/panier/?remove_item=faf02b2358de8933f480a146f4d2d98e&_wpnonce=adc54c21b7
+11:59:06	Warning: 	File has moved from https://afsr.fr/panier/?remove_item=faf02b2358de8933f480a146f4d2d98e&_wpnonce=adc54c21b7 to http://afsr.fr/panier/?removed_item=1
+11:59:06	Warning: 	Found for https://afsr.fr/panier/?remove_item=7501e5d4da87ac39d782741cd794002d&_wpnonce=adc54c21b7
+11:59:06	Warning: 	File has moved from https://afsr.fr/panier/?remove_item=7501e5d4da87ac39d782741cd794002d&_wpnonce=adc54c21b7 to http://afsr.fr/panier/?removed_item=1
+11:59:06	Warning: 	Found for https://afsr.fr/panier/?remove_item=17b65afe58c49edc1bdd812c554ee3bb&_wpnonce=adc54c21b7
+11:59:06	Warning: 	File has moved from https://afsr.fr/panier/?remove_item=17b65afe58c49edc1bdd812c554ee3bb&_wpnonce=adc54c21b7 to http://afsr.fr/panier/?removed_item=1
+11:59:06	Warning: 	Found for https://afsr.fr/panier/?remove_item=14eac0d254a6ccaf9b67584c7830a5c0&_wpnonce=adc54c21b7
+11:59:06	Warning: 	File has moved from https://afsr.fr/panier/?remove_item=14eac0d254a6ccaf9b67584c7830a5c0&_wpnonce=adc54c21b7 to http://afsr.fr/panier/?removed_item=1
+11:59:06	Warning: 	Found for https://afsr.fr/panier/?remove_item=cd19a3a0867f69f400961b5dd502fbc6&_wpnonce=adc54c21b7
+11:59:06	Warning: 	File has moved from https://afsr.fr/panier/?remove_item=cd19a3a0867f69f400961b5dd502fbc6&_wpnonce=adc54c21b7 to http://afsr.fr/panier/?removed_item=1
+12:00:26	Warning: 	Found for https://afsr.fr/panier/?undo_item=22508552d3fc22f867e33e6c56b30b16&_wpnonce=adc54c21b7
+12:00:26	Warning: 	File has moved from https://afsr.fr/panier/?undo_item=22508552d3fc22f867e33e6c56b30b16&_wpnonce=adc54c21b7 to http://afsr.fr/commande/
+12:00:27	Warning: 	Found for https://afsr.fr/panier/?undo_item=9b1c93a6864c39e48417ee486b83c387&_wpnonce=adc54c21b7
+12:00:27	Warning: 	File has moved from https://afsr.fr/panier/?undo_item=9b1c93a6864c39e48417ee486b83c387&_wpnonce=adc54c21b7 to http://afsr.fr/commande/
+12:00:28	Warning: 	Found for https://afsr.fr/panier/?undo_item=af88d16112663ef32519c582073f44c4&_wpnonce=adc54c21b7
+12:00:28	Warning: 	File has moved from https://afsr.fr/panier/?undo_item=af88d16112663ef32519c582073f44c4&_wpnonce=adc54c21b7 to http://afsr.fr/commande/
+12:00:33	Warning: 	Found for https://afsr.fr/panier/?undo_item=4afa19649ae378da31a423bcd78a97c8&_wpnonce=adc54c21b7
+12:00:33	Warning: 	File has moved from https://afsr.fr/panier/?undo_item=4afa19649ae378da31a423bcd78a97c8&_wpnonce=adc54c21b7 to http://afsr.fr/commande/
+12:00:33	Warning: 	Found for https://afsr.fr/panier/?undo_item=a46b6b588543109f13ff64b2bf1104f0&_wpnonce=adc54c21b7
+12:00:33	Warning: 	File has moved from https://afsr.fr/panier/?undo_item=a46b6b588543109f13ff64b2bf1104f0&_wpnonce=adc54c21b7 to http://afsr.fr/commande/
+12:00:33	Warning: 	Found for https://afsr.fr/panier/?undo_item=fdda6e957f1e5ee2f3b311fe4f145ae1&_wpnonce=adc54c21b7
+12:00:33	Warning: 	File has moved from https://afsr.fr/panier/?undo_item=fdda6e957f1e5ee2f3b311fe4f145ae1&_wpnonce=adc54c21b7 to http://afsr.fr/commande/
+12:00:33	Warning: 	Found for https://afsr.fr/panier/?undo_item=5fde40544cff0001484ecae2466ce96e&_wpnonce=adc54c21b7
+12:00:33	Warning: 	File has moved from https://afsr.fr/panier/?undo_item=5fde40544cff0001484ecae2466ce96e&_wpnonce=adc54c21b7 to http://afsr.fr/commande/
+12:00:33	Warning: 	Found for https://afsr.fr/panier/?undo_item=faf02b2358de8933f480a146f4d2d98e&_wpnonce=adc54c21b7
+12:00:33	Warning: 	File has moved from https://afsr.fr/panier/?undo_item=faf02b2358de8933f480a146f4d2d98e&_wpnonce=adc54c21b7 to http://afsr.fr/commande/
+12:00:33	Warning: 	Found for https://afsr.fr/panier/?undo_item=7501e5d4da87ac39d782741cd794002d&_wpnonce=adc54c21b7
+12:00:33	Warning: 	File has moved from https://afsr.fr/panier/?undo_item=7501e5d4da87ac39d782741cd794002d&_wpnonce=adc54c21b7 to http://afsr.fr/commande/
+12:00:33	Warning: 	Found for https://afsr.fr/panier/?undo_item=14eac0d254a6ccaf9b67584c7830a5c0&_wpnonce=adc54c21b7
+12:00:33	Warning: 	File has moved from https://afsr.fr/panier/?undo_item=14eac0d254a6ccaf9b67584c7830a5c0&_wpnonce=adc54c21b7 to http://afsr.fr/commande/
+12:00:33	Warning: 	Found for https://afsr.fr/panier/?undo_item=cd19a3a0867f69f400961b5dd502fbc6&_wpnonce=adc54c21b7
+12:00:33	Warning: 	File has moved from https://afsr.fr/panier/?undo_item=cd19a3a0867f69f400961b5dd502fbc6&_wpnonce=adc54c21b7 to http://afsr.fr/commande/
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 46 minutes 49 seconds : 2011 links scanned, 1701 files written (417531300 bytes overall) [457364942 bytes received at 71362 bytes/sec]
+(23 errors, 566 warnings, 0 messages)
